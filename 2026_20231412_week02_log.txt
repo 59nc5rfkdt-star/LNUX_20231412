@@ -1,0 +1,125 @@
+Script started on 2026-03-13 10:20:21+09:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="72" LINES="42"]
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ ls -al
+[?2004ltotal 44
+drwxr-x--- 4 chleh chleh 4096 Mar 13 10:20 [0m[01;34m.[0m
+drwxr-xr-x 3 root  root  4096 Mar 13 09:32 [01;34m..[0m
+-rw------- 1 chleh chleh  274 Mar 13 10:18 .bash_history
+-rw-r--r-- 1 chleh chleh  220 Mar 13 09:32 .bash_logout
+-rw-r--r-- 1 chleh chleh 3771 Mar 13 09:32 .bashrc
+drwx------ 2 chleh chleh 4096 Mar 13 09:33 [01;34m.cache[0m
+-rw------- 1 chleh chleh   20 Mar 13 09:50 .lesshst
+-rw-rw-r-- 1 chleh chleh    0 Mar 13 09:33 .motd_shown
+-rw-r--r-- 1 chleh chleh  807 Mar 13 09:32 .profile
+-rw-r--r-- 1 chleh chleh    0 Mar 13 09:47 .sudo_as_admin_successful
+-rw-r--r-- 1 chleh chleh  214 Mar 13 10:20 2026_20231412_week02_log.txt
+drwxr-xr-x 3 chleh chleh 4096 Mar 13 10:11 [01;34mlinux[0m
+-rw-r--r-- 1 chleh chleh   90 Mar 13 10:20 t.txt
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ git init
+[?2004l[33mhint: Using 'master' as the name for the initial branch. This default branch name[m
+[33mhint: is subject to change. To configure the initial branch name to use in all[m
+[33mhint: of your new repositories, which will suppress this warning, call:[m
+[33mhint: [m
+[33mhint: 	git config --global init.defaultBranch <name>[m
+[33mhint: [m
+[33mhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and[m
+[33mhint: 'development'. The just-created branch can be renamed via this command:[m
+[33mhint: [m
+[33mhint: 	git branch -m <name>[m
+Initialized empty Git repository in /home/chleh/.git/
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ git add .
+[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7m git commit -m "First commit: week02“[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C git commit -m "First commit: week02“
+[?2004l[?2004h> 
+[?2004l[?2004h> [7mgit commit -m "First commit: week02“[27m[C[Cgit commit -m "First commit: week02“
+[?2004lerror: pathspec 'commit:' did not match any file(s) known to git
+error: pathspec 'week02“' did not match any file(s) known to git
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7mgit commit -m "First commit: week02“[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit commit -m "First commit: week02“[K"
+[?2004lAuthor identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident name (for <chleh@BOOK-PHUOEI1G53.localdomain>) not allowed
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [K]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [K]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [K]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [K]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [K]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [K]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7mgit commit -m "First commit: week02“[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit commit -m "First commit: week02“[K"
+[?2004lAuthor identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident name (for <chleh@BOOK-PHUOEI1G53.localdomain>) not allowed
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7mgit branch -M main[27mgit branch -M main
+[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7mgit remote add origin[27mgit remote add origin [7mhttps://github.com/59nc5rfkdt-s[27m[7mt[27m[7mar/LNUX_20231412[27m[A]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/59nc5rfkdt-star/LNUX_20231412
+[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7mgit push -u origin main[27mgit push -u origin main
+[?2004lerror: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/59nc5rfkdt-star/LNUX_20231412'
+[m[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7m git remote add origin[27m git remote add origin [7mhttps://github.com/59nc5rfkdt-[27m[7ms[27m[7mtar/LNUX_20231412[27m[A]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/59nc5rfkdt-star/LNUX_20231412
+[?2004lerror: remote origin already exists.
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7mgit commit -m "First commit: week02"[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit commit -m "First commit: week02"
+[?2004lAuthor identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident name (for <chleh@BOOK-PHUOEI1G53.localdomain>) not allowed
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7mgit branch -M main[27mgit branch -M main
+[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7m git remote add origin[27m git remote add origin [7mhttps://github.com/59nc5rfkdt-[27m[7ms[27m[7mtar/LNUX_20231412[27m[A]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/59nc5rfkdt-star/LNUX_20231412
+[?2004lerror: remote origin already exists.
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7mgit config --global user.name "본인 이름 또는 닉네임"[27m 
+[7mgit config --global user.email "본인 이메일 주소"[27m[A[Agit config --global user.name "본인 이름 또는 닉네임" 
+[1Pgit config --global user.email "본인 이메일 주소[Kchl[K[K[K[K[K[K[K[K[K[K[Kchlehdrjs1722@naver,[K.com"[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2P"
+git config --global user.email "chlehdrjs1722@naver.com"
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2P"[2P"[1P"[2P"[2P"[1P"[2P"[2P"[1P"[2P"[2P"[7m59nc5rfkdt-star[27m"59nc5rfkdt-star"
+
+[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7mgit init[27mgit init
+[?2004lReinitialized existing Git repository in /home/chleh/.git/
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7mgit branch -M main[27mgit branch -M main
+[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7mgit remote add origin[27mgit remote add origin [7mhttps://github.com/59nc5rfkdt-s[27m[7mt[27m[7mar/LNUX_20231412[27m[A]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/59nc5rfkdt-star/LNUX_20231412
+[?2004lerror: remote origin already exists.
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7mgit remote add origin https://github.com/59nc5rfkdt-s[27m[7mt[27m[7mar/LNUX_20231412[27m[A]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ git remote add origin https://github.com/59nc5rfkdt-star/LNUX_20231412>[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C<https://github.com/59nc5rfkdt-star/LNUX_20231412>[A]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004lbash: syntax error near unexpected token `newline'
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7mrm -rf .git[27mrm -rf .git
+[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7mmkdir my_linux_project[27m
+[7mcd my_linux_project[27m[A]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ mkdir my_linux_project
+cd my_linux_project[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7m2026_20231412_week02_log.txt[27m[C[C[C2026_20231412_week02_log.txt
+[?2004lbash: cd: 2026_20231412_week02_log.txt: Not a directory
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7mgit init[27mgit init
+[?2004l[33mhint: Using 'master' as the name for the initial branch. This default branch name[m
+[33mhint: is subject to change. To configure the initial branch name to use in all[m
+[33mhint: of your new repositories, which will suppress this warning, call:[m
+[33mhint: [m
+[33mhint: 	git config --global init.defaultBranch <name>[m
+[33mhint: [m
+[33mhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and[m
+[33mhint: 'development'. The just-created branch can be renamed via this command:[m
+[33mhint: [m
+[33mhint: 	git branch -m <name>[m
+Initialized empty Git repository in /home/chleh/.git/
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7mgit branch -M main[27mgit branch -M main
+[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7mgit remote add origin https://github.com/59nc5rfkdt-s[27m[7mt[27m[7mar/LNUX_20231412[27m[A]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ git remote add origin https://github.com/59nc5rfkdt-star/LNUX_20231412
+[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ [7mgit add .[27m
+[7mgit commit -m "첫 번째 커밋"[27m
+[7mgit push -u origin main[27m[A[A]0;chleh@BOOK-PHUOEI1G53: ~[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~[00m$ git add .
+git commit -m "첫 번째 커밋"
+git push -u origin main
+[?2004l
