@@ -1,0 +1,174 @@
+    1  ls
+    2  ls -al
+    3  cd
+    4  pwd
+    5  ls -al
+    6  exit
+    7  ls -al
+    8  sudo apt update && sudo apt upgrade –y
+    9  sudo apt update
+   10  systemctl status
+   11  clear
+   12  ls -al
+   13  mkdir -p ~/linux/week02
+   14  ls
+   15  cd ls
+   16  cd linux/week02
+   17  script -t=t.txt -af 2026_20231412_week02_log.txt
+   18  ls -al
+   19  watch -n 1 ls -l 2026_20231412_week02_log.txt
+   20  ls -al
+   21  ls
+   22  ls -al
+   23  cd
+   24  script -t=t.txt -af 2026_20231412_week02_log.txt
+   25  ls
+   26  ls -al
+   27  cd linux/
+   28  docker run -d --name my-nginx -p 8080:80 nginx:latest
+   29  sudo systemctl stop docker.service
+   30  docker run -d --name my-nginx -p 8080:80 nginx:latest
+   31  docker images
+   32  docker info
+   33  sudo systemctl start docker
+   34  docker ps
+   35  docker exec -it my-nginx bash
+   36  pwd
+   37  mkdir www
+   38  ls
+   39  cd week02
+   40  docker cp my-nginx:/usr/share/nginx/html/. ./www/
+   41  docker run -d --name my-nginx -p 8080:80 --mount 
+   42  type=bind,source=./www,target=/usr/share/nginx/html nginx:latest
+   43  docker stop my-nginx
+   44  docker rm –f my-nginx
+   45  docker run -d --name my-nginx -p 8080:80 --mount 
+   46  type=bind,source=./www,target=/usr/share/nginx/html nginx:latest
+   47  docker run -d --name my-nginx -p 8080:80 --mount 
+   48  type=bind,source=./www,target=/usr/share/nginx/html nginx:latest
+   49  docker cp my-nginx:/usr/share/nginx/html/. ./www/
+   50  docker run -d --name my-nginx -p 8080:80 --mount 
+   51  type=bind,source=./www,target=/usr/share/nginx/html nginx:latest
+   52  pwd
+   53  cd www
+   54  cd..
+   55  cd ...
+   56  cd...
+   57  cd..
+   58  q
+   59  cp...
+   60  cd
+   61  cd linux/week02/
+   62  docker run -d –name my-apache -p 8081:80 httpd:lastest
+   63  docker ps
+   64  git push origin main
+   65  git push
+   66  q
+   67  exit
+   68  ls
+   69  ls list
+   70  ls linux/
+   71  mkdir -p ~/linux/week03
+   72  cd linux/week03
+   73  ls
+   74  mkdir –p web_service/html
+   75  ls
+   76  mkdir -p wep_service/html
+   77  ls
+   78  cd web_service
+   79  cd wed_service
+   80  cd wep_service
+   81  touch docker-compose.xml
+   82  code docker
+   83  sudo apt install docker-compose
+   84  docker-conpose up-d
+   85  docker-compose up-d
+   86  docker-compose up -d
+   87  cd ..
+   88  cd web_service
+   89  docker-compose up -d
+   90  ls -l
+   91  find . -name "docker-compose*" -o -name "compose*"
+   92  cd wep_service
+   93  mv docker-compose.xml docker-compose.yml
+   94  docker-compose up -d
+   95  cat docker-compose.yml
+   96  nano docker-compose.yml
+   97  docker-compose up -d
+   98  cat << 'EOF' > docker-compose.yml
+version: '3.8'
+
+services:
+  nginx-server:
+    image: nginx:1.25-alpine
+    container_name: my-web-proxy
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    volumes:
+      - ./html:/usr/share/nginx/html
+    networks:
+      - web-net
+
+networks:
+  web-net:
+    driver: bridge
+EOF
+
+   99  docker-compose up -d
+  100  cd html/
+  101  cd ~/linux/week02/www/
+  102  ls -al
+  103  cp index.html ~/linux/week02/web_service/html/
+  104  docker-compose ls
+  105  docker-compose stop
+  106  cd ~/linux/week03/wep_service
+  107  ls -l
+  108  docker-compose up -d
+  109  cd html/
+  110  mkdir pds
+  111  stat pds
+  112  ls
+  113  getent group
+  114  chgrp www-data html/pds
+  115  chmod 755 html/pds
+  116  chgrp www-data pds
+  117  chmod 755 pds
+  118  cd ..
+  119  sudo adduser guest
+  120  stat pds
+  121  sudo chmod 770 pds
+  122  sudo chmod 770 html/pds
+  123  sudo chmod 770 pds
+  124  mkdir -p html/pds
+  125  sudo chmod 770 html/pds
+  126  sudo chgrp www-data html/pds
+  127  sudo chmod 770 html/pds
+  128  sudo chmod 770 pds
+  129  mkdir -p html/pds && sudo chmod 770 html/pds
+  130  sudo chmod 770 pds
+  131  su guest
+  132  cd /etc/ske
+  133  cd ..
+  134  cd /etc/ske
+  135  su web_admin
+  136  su guest
+  137  sudo visudo
+  138  su web_admin
+  139  su guest
+  140  sudo nano 00-header
+  141  cd /etc/update-motd.d
+  142  run-parts /etc/update-motd.d/
+  143  nano 00-header
+  144  cd /etc/skel
+  145  cat .profile
+  146  sudo adduser guest2
+  147  cd ..
+  148  git add .
+  149  cd ~/linux/week03
+  150  git status
+  151  git add .
+  152  git commit -m "week03 실습 업데이트"
+  153  git push
+  154  cd ~/linux/week03
+  155  history > today_commands.txt
