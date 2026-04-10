@@ -1,0 +1,632 @@
+Script started on 2026-04-10 10:04:38+09:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="72" LINES="42"]
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mscript -t=t.txt -af 2026_학번_week[27m[7m0[27m[7m5_log.txt[27m[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ script -t=t.txt -af 2026_학번_week05_log.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C_week05_[2Plog.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C_week05_lo[2Pg.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2_week05_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0_week05_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2_week05_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C3_week05_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1_week05_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C4_week05_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1_week05_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2_w[Cek05_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004lScript started, output log file is '2026_20231412_week05_log.txt', timing file is 't.txt'.
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mwatch -n 1 ls -l 2026_학번_week05_[27m[7ml[27m[7mog.txt[27m[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ watch -n 1 ls -l 2026_학번_week05_log.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C_week05_log[2P.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C_week05_log.t[2Pxt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2_week05_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0_week05_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2_week05_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C3_week05_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1_week05_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C4_week05_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1_week05_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2_week05_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l[?1049h[22;0;0t[1;42r(B[m[4l[?7h[39;49m]4;8;rgb:54/54/54\]4;9;rgb:FF/54/54\]4;10;rgb:54/FF/54\]4;11;rgb:FF/FF/54\]4;12;rgb:54/54/FF\]4;13;rgb:FF/54/FF\]4;14;rgb:54/FF/FF\[39;49m(B[m[H[2JEvery 1.0s: ls -l 2026_202...  BOOK-PHUOEI1G53: Fri Apr 10 10:05:14 2026[3;1H-rw-r--r-- 1 chleh chleh 2742 Apr 10 10:05 2026_20231412_week05_log.txt[42d(B[m[1;67H5[3;26H3115[42;72H(B[m[1;67H6[3;28H48[42;72H(B[m[1;67H7[3;28H79[42;72H(B[m[39;49m]104[42;1H[?1049l[23;0;0t[?1l>
+[1]+  Stopped                 watch -n 1 ls -l 2026_20231412_week05_log.txt
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mcd ~/linux/week03/web_service[27mcd ~/linux/week03/web_service
+[?2004lbash: cd: /home/chleh/linux/week03/web_service: No such file or directory
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mdocker compose ps[27mdocker compose ps
+[?2004lno configuration file provided: not found
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7msystemctl is-enabled docker[27msystemctl is-enabled docker
+[?2004lenabled
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7m docker run -d --name stress-nginx[27m[7m [27m[7m-p 8081:80 nginx:alpine[27m[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$  docker run -d --name stress-nginx -p 8081:80 nginx:alpine
+[?2004lUnable to find image 'nginx:alpine' locally
+alpine: Pulling from library/nginx
+
+[1A[2Kf03becc8ac15: Pulling fs layer [1B
+[1A[2Kc8a2fa3a88d2: Pulling fs layer [1B
+[1A[2K15e759724ff6: Pulling fs layer [1B
+[1A[2K34dfdd2ef1f9: Pulling fs layer [1B
+[1A[2K589002ba0eae: Pulling fs layer [1B
+[1A[2Ka71873b303e8: Pulling fs layer [1B
+[1A[2K1165b869c51a: Pulling fs layer [1B
+[1A[2Kff9f59a6a62e: Pulling fs layer [1B
+[1A[2K6057002906d9: Download complete [1B[7A[2K15e759724ff6: Downloading     627B/627B[7B[7A[2K15e759724ff6: Download complete [7B[8A[2Kc8a2fa3a88d2: Download complete [8B[4A[2Ka71873b303e8: Download complete [4B[6A[2K34dfdd2ef1f9: Download complete [6B[2A[2Kff9f59a6a62e: Download complete [2B[9A[2Kf03becc8ac15: Downloading  1.049MB/1.871MB[9B
+[1A[2K1116431dccff: Download complete [1B[4A[2K1165b869c51a: Downloading  1.049MB/20.25MB[4B[10A[2Kf03becc8ac15: Downloading  1.049MB/1.871MB[10B[4A[2K1165b869c51a: Downloading  1.049MB/20.25MB[4B[10A[2Kf03becc8ac15: Downloading  1.049MB/1.871MB[10B[4A[2K1165b869c51a: Downloading  2.097MB/20.25MB[4B[10A[2Kf03becc8ac15: Download complete [10B[4A[2K1165b869c51a: Downloading  3.146MB/20.25MB[4B[4A[2K1165b869c51a: Downloading  4.194MB/20.25MB[4B[4A[2K1165b869c51a: Downloading  5.243MB/20.25MB[4B[4A[2K1165b869c51a: Downloading  6.291MB/20.25MB[4B[4A[2K1165b869c51a: Downloading   7.34MB/20.25MB[4B[4A[2K1165b869c51a: Downloading   7.34MB/20.25MB[4B[6A[2K589002ba0eae: Downloading  1.049MB/3.862MB[6B[4A[2K1165b869c51a: Downloading  8.389MB/20.25MB[4B[6A[2K589002ba0eae: Downloading  1.049MB/3.862MB[6B[4A[2K1165b869c51a: Downloading  9.437MB/20.25MB[4B[6A[2K589002ba0eae: Downloading  1.049MB/3.862MB[6B[4A[2K1165b869c51a: Downloading  9.437MB/20.25MB[4B[6A[2K589002ba0eae: Downloading  1.049MB/3.862MB[6B[4A[2K1165b869c51a: Downloading  10.49MB/20.25MB[4B[6A[2K589002ba0eae: Downloading  2.097MB/3.862MB[6B[4A[2K1165b869c51a: Downloading  11.53MB/20.25MB[4B[6A[2K589002ba0eae: Downloading  2.097MB/3.862MB[6B[4A[2K1165b869c51a: Downloading  11.53MB/20.25MB[4B[6A[2K589002ba0eae: Downloading  2.097MB/3.862MB[6B[4A[2K1165b869c51a: Downloading  12.58MB/20.25MB[4B[6A[2K589002ba0eae: Downloading  3.146MB/3.862MB[6B[4A[2K1165b869c51a: Downloading  12.58MB/20.25MB[4B[6A[2K589002ba0eae: Downloading  3.146MB/3.862MB[6B[4A[2K1165b869c51a: Downloading  13.63MB/20.25MB[4B[6A[2K589002ba0eae: Download complete [6B[4A[2K1165b869c51a: Downloading  13.63MB/20.25MB[4B[6A[2K589002ba0eae: Extracting 1 s[6B[4A[2K1165b869c51a: Downloading  14.68MB/20.25MB[4B[6A[2K589002ba0eae: Extracting 1 s[6B[4A[2K1165b869c51a: Downloading  15.73MB/20.25MB[4B[10A[2Kf03becc8ac15: Extracting 1 s[10B[6A[2K589002ba0eae: Pull complete [6B[4A[2K1165b869c51a: Downloading  16.78MB/20.25MB[4B[10A[2Kf03becc8ac15: Extracting 1 s[10B[4A[2K1165b869c51a: Downloading  17.02MB/20.25MB[4B[8A[2K15e759724ff6: Pull complete [8B[5A[2Ka71873b303e8: Extracting 1 s[5B[3A[2Kff9f59a6a62e: Pull complete [3B[10A[2Kf03becc8ac15: Pull complete [10B[4A[2K1165b869c51a: Downloading  17.83MB/20.25MB[4B[9A[2Kc8a2fa3a88d2: Pull complete [9B[5A[2Ka71873b303e8: Pull complete [5B[7A[2K34dfdd2ef1f9: Pull complete [7B[4A[2K1165b869c51a: Downloading  18.87MB/20.25MB[4B[4A[2K1165b869c51a: Download complete [4B[4A[2K1165b869c51a: Extracting 1 s[4B[4A[2K1165b869c51a: Extracting 1 s[4B[4A[2K1165b869c51a: Extracting 1 s[4B[4A[2K1165b869c51a: Extracting 1 s[4B[4A[2K1165b869c51a: Extracting 1 s[4B[4A[2K1165b869c51a: Extracting 1 s[4B[4A[2K1165b869c51a: Pull complete [4BDigest: sha256:645eda1c2477aaa9b879f73909b9222c6f19798dd45be6706268d82a661c6e6d
+Status: Downloaded newer image for nginx:alpine
+220680bd4f902eb7a2100ca4e80034ab9d8d77ba461a9e1775781024b6518823
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mdocker ps[27mdocker ps
+[?2004lCONTAINER ID   IMAGE               COMMAND                  CREATED          STATUS          PORTS                                     NAMES
+220680bd4f90   nginx:alpine        "/docker-entrypoint.…"   14 seconds ago   Up 14 seconds   0.0.0.0:8081->80/tcp, [::]:8081->80/tcp   stress-nginx
+c92740466ce4   nginx:1.25-alpine   "/docker-entrypoint.…"   3 weeks ago      Up 9 minutes    0.0.0.0:80->80/tcp, [::]:80->80/tcp       my-web-proxy
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mps –ef 또는 ps –aux[27mps –ef 또는 ps –aux
+[?2004lerror: garbage option
+
+Usage:
+ ps [options]
+
+ Try 'ps --help <simple|list|output|threads|misc|all>'
+  or 'ps --help <s|l|o|t|m|a>'
+ for additional help text.
+
+For more details see ps(1).
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7m pstree –p[27m pstree –p
+[?2004lNo such user name: –p
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7msudo ss -lnp | grep -E '629|635|11[27m[7m2[27m[7m4|1131’[27m[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ sudo ss -lnp | grep -E '629|635|1124|1131’
+[?2004l[?2004h> [7mpstree -p | grep nginx[27m[C[Cpstree -p | grep nginx
+[?2004l[?2004h> 800[K81
+[?2004l[?2004h> 80
+[?2004l[?2004h> ^C[?2004l[?2004h[?2004l
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mpstree -p | grep nginx[27mpstree -p | grep nginx
+[?2004l           |-containerd-shim(545)-+-[01;31m[Knginx[m[K(568)-+-[01;31m[Knginx[m[K(644)
+           |                      |            |-[01;31m[Knginx[m[K(645)
+           |                      |            |-[01;31m[Knginx[m[K(646)
+           |                      |            |-[01;31m[Knginx[m[K(647)
+           |                      |            |-[01;31m[Knginx[m[K(648)
+           |                      |            |-[01;31m[Knginx[m[K(649)
+           |                      |            |-[01;31m[Knginx[m[K(650)
+           |                      |            |-[01;31m[Knginx[m[K(651)
+           |                      |            |-[01;31m[Knginx[m[K(652)
+           |                      |            |-[01;31m[Knginx[m[K(653)
+           |                      |            |-[01;31m[Knginx[m[K(654)
+           |                      |            |-[01;31m[Knginx[m[K(655)
+           |                      |            |-[01;31m[Knginx[m[K(656)
+           |                      |            |-[01;31m[Knginx[m[K(657)
+           |                      |            |-[01;31m[Knginx[m[K(658)
+           |                      |            `-[01;31m[Knginx[m[K(659)
+           |-containerd-shim(1168)-+-[01;31m[Knginx[m[K(1191)-+-[01;31m[Knginx[m[K(1283)
+           |                       |             |-[01;31m[Knginx[m[K(1284)
+           |                       |             |-[01;31m[Knginx[m[K(1285)
+           |                       |             |-[01;31m[Knginx[m[K(1286)
+           |                       |             |-[01;31m[Knginx[m[K(1287)
+           |                       |             |-[01;31m[Knginx[m[K(1288)
+           |                       |             |-[01;31m[Knginx[m[K(1289)
+           |                       |             |-[01;31m[Knginx[m[K(1290)
+           |                       |             |-[01;31m[Knginx[m[K(1291)
+           |                       |             |-[01;31m[Knginx[m[K(1292)
+           |                       |             |-[01;31m[Knginx[m[K(1293)
+           |                       |             |-[01;31m[Knginx[m[K(1294)
+           |                       |             |-[01;31m[Knginx[m[K(1295)
+           |                       |             |-[01;31m[Knginx[m[K(1296)
+           |                       |             |-[01;31m[Knginx[m[K(1297)
+           |                       |             `-[01;31m[Knginx[m[K(1298)
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mdocker ps[27mdocker ps
+[?2004lCONTAINER ID   IMAGE               COMMAND                  CREATED              STATUS              PORTS                                     NAMES
+220680bd4f90   nginx:alpine        "/docker-entrypoint.…"   About a minute ago   Up About a minute   0.0.0.0:8081->80/tcp, [::]:8081->80/tcp   stress-nginx
+c92740466ce4   nginx:1.25-alpine   "/docker-entrypoint.…"   3 weeks ago          Up 10 minutes       0.0.0.0:80->80/tcp, [::]:80->80/tcp       my-web-proxy
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7m ps -ef | grep docker[27m ps -ef | grep docker
+[?2004lroot         293       1  0 09:57 ?        00:00:03 /usr/bin/[01;31m[Kdocker[m[Kd -H fd:// --containerd=/run/containerd/containerd.sock
+root         598     293  0 09:57 ?        00:00:00 /usr/bin/[01;31m[Kdocker[m[K-proxy -proto tcp -host-ip 0.0.0.0 -host-port 80 -container-ip 172.18.0.2 -container-port 80 -use-listen-fd
+root         605     293  0 09:57 ?        00:00:00 /usr/bin/[01;31m[Kdocker[m[K-proxy -proto tcp -host-ip :: -host-port 80 -container-ip 172.18.0.2 -container-port 80 -use-listen-fd
+root        1238     293  0 10:06 ?        00:00:00 /usr/bin/[01;31m[Kdocker[m[K-proxy -proto tcp -host-ip 0.0.0.0 -host-port 8081 -container-ip 172.17.0.2 -container-port 80 -use-listen-fd
+root        1245     293  0 10:06 ?        00:00:00 /usr/bin/[01;31m[Kdocker[m[K-proxy -proto tcp -host-ip :: -host-port 8081 -container-ip 172.17.0.2 -container-port 80 -use-listen-fd
+chleh       1457    1039  0 10:12 pts/3    00:00:00 grep --color=auto [01;31m[Kdocker[m[K
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mps -ef | grep nginx[27mps -ef | grep nginx
+[?2004lroot         568     545  0 09:57 ?        00:00:00 [01;31m[Knginx[m[K: master process [01;31m[Knginx[m[K -g daemon off;
+message+     644     568  0 09:57 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+     645     568  0 09:57 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+     646     568  0 09:57 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+     647     568  0 09:57 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+     648     568  0 09:57 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+     649     568  0 09:57 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+     650     568  0 09:57 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+     651     568  0 09:57 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+     652     568  0 09:57 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+     653     568  0 09:57 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+     654     568  0 09:57 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+     655     568  0 09:57 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+     656     568  0 09:57 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+     657     568  0 09:57 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+     658     568  0 09:57 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+     659     568  0 09:57 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+root        1191    1168  0 10:06 ?        00:00:00 [01;31m[Knginx[m[K: master process [01;31m[Knginx[m[K -g daemon off;
+message+    1283    1191  0 10:06 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+    1284    1191  0 10:06 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+    1285    1191  0 10:06 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+    1286    1191  0 10:06 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+    1287    1191  0 10:06 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+    1288    1191  0 10:06 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+    1289    1191  0 10:06 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+    1290    1191  0 10:06 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+    1291    1191  0 10:06 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+    1292    1191  0 10:06 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+    1293    1191  0 10:06 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+    1294    1191  0 10:06 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+    1295    1191  0 10:06 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+    1296    1191  0 10:06 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+    1297    1191  0 10:06 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+message+    1298    1191  0 10:06 ?        00:00:00 [01;31m[Knginx[m[K: worker process
+chleh       1462    1039  0 10:12 pts/3    00:00:00 grep --color=auto [01;31m[Knginx[m[K
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mdocker top stress-nginx 또는 my-we[27m[7mb[27m[7m-proxy[27m[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ docker top stress-nginx 또는 my-web-proxy
+[?2004lError response from daemon: ps: error: garbage option
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7msudo apt update[27msudo apt update
+[?2004l[sudo] password for chleh: 
+[33m0% [Working][0m            Get:1 https://download.docker.com/linux/ubuntu noble InRelease [48.5 kB]
+[33m0% [1 InRelease 15.9 kB/48.5 kB 33%] [Connecting to archive.ubuntu.com][0m[33m0% [Connecting to archive.ubuntu.com] [Connecting to security.ubuntu.co[0m[33m0% [Connecting to archive.ubuntu.com] [Connecting to security.ubuntu.co[0m                                                                       Get:2 https://download.docker.com/linux/ubuntu noble/stable amd64 Packages [49.7 kB]
+[33m0% [2 Packages 15.9 kB/49.7 kB 32%] [Connecting to archive.ubuntu.com] [0m[33m0% [Connecting to archive.ubuntu.com] [Connecting to security.ubuntu.co[0m[33m0% [2 Packages store 0 B] [Connecting to archive.ubuntu.com] [Connectin[0m[33m0% [Connecting to archive.ubuntu.com (91.189.91.83)] [Connecting to sec[0m                                                                       Hit:3 http://archive.ubuntu.com/ubuntu noble InRelease
+[33m                                                                       0% [Waiting for headers][0m                        Get:4 http://security.ubuntu.com/ubuntu noble-security InRelease [126 kB]
+[33m0% [Waiting for headers] [4 InRelease 9128 B/126 kB 7%][0m[33m0% [Waiting for headers] [4 InRelease 13.2 kB/126 kB 10%][0m                                                         Get:5 http://archive.ubuntu.com/ubuntu noble-updates InRelease [126 kB]
+[33m0% [5 InRelease 13.2 kB/126 kB 10%] [4 InRelease 13.2 kB/126 kB 10%][0m[33m0% [5 InRelease 63.0 kB/126 kB 50%] [4 InRelease 56.3 kB/126 kB 45%][0m[33m                                                                    0% [4 InRelease 95.4 kB/126 kB 76%][0m[33m                                   0% [Waiting for headers][0m[33m0% [Waiting for headers][0m                        Get:6 http://archive.ubuntu.com/ubuntu noble-backports InRelease [126 kB]
+[33m0% [6 InRelease 5084 B/126 kB 4%][0m[33m0% [6 InRelease 21.3 kB/126 kB 17%][0m[33m                                   0% [Waiting for headers][0m                        Get:7 http://security.ubuntu.com/ubuntu noble-security/main amd64 Packages [1579 kB]
+[33m0% [Waiting for headers] [7 Packages 1107 B/1579 kB 0%][0m[33m16% [Waiting for headers] [7 Packages 13.2 kB/1579 kB 1%][0m                                                         Get:8 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages [1881 kB]
+[33m16% [8 Packages 1107 B/1881 kB 0%] [7 Packages 56.4 kB/1579 kB 4%][0m[33m22% [8 Packages 676 kB/1881 kB 36%] [7 Packages 389 kB/1579 kB 25%][0m[33m                                                                   30% [Waiting for headers] [7 Packages 891 kB/1579 kB 56%][0m                                                         Get:9 http://archive.ubuntu.com/ubuntu noble-updates/main Translation-en [343 kB]
+[33m30% [9 Translation-en 10.7 kB/343 kB 3%] [7 Packages 891 kB/1579 kB 56%[0m[33m30% [8 Packages store 0 B] [9 Translation-en 10.7 kB/343 kB 3%] [7 Pack[0m[33m33% [8 Packages store 0 B] [Waiting for headers] [7 Packages 1047 kB/15[0m                                                                       Get:10 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Components [177 kB]
+[33m33% [8 Packages store 0 B] [10 Components-amd64 4096 B/177 kB 2%] [7 Pa[0m[33m34% [8 Packages store 0 B] [Waiting for headers] [7 Packages 1158 kB/15[0m                                                                       Get:11 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 c-n-f Metadata [16.9 kB]
+                                                                       Get:12 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 Packages [1665 kB]
+[33m34% [8 Packages store 0 B] [12 Packages 32.4 kB/1665 kB 2%] [7 Packages[0m[33m                                                                       35% [12 Packages 101 kB/1665 kB 6%] [7 Packages 1182 kB/1579 kB 75%][0m[33m35% [9 Translation-en store 0 B] [12 Packages 101 kB/1665 kB 6%] [7 Pac[0m[33m                                                                       39% [12 Packages 644 kB/1665 kB 39%] [7 Packages 1395 kB/1579 kB 88%][0m[33m39% [10 Components-amd64 store 0 B] [12 Packages 644 kB/1665 kB 39%] [7[0m[33m                                                                       42% [12 Packages 1020 kB/1665 kB 61%] [7 Packages 1534 kB/1579 kB 97%][0m[33m42% [11 Commands-amd64 store 0 B] [12 Packages 1020 kB/1665 kB 61%] [7 [0m[33m42% [11 Commands-amd64 store 66.0 kB] [12 Packages 1020 kB/1665 kB 61%][0m[33m                                                                       42% [12 Packages 1020 kB/1665 kB 61%][0m[33m42% [7 Packages store 0 B] [12 Packages 1020 kB/1665 kB 61%][0m[33m45% [7 Packages store 0 B] [Waiting for headers] [Waiting for headers][0m                                                                      Get:13 http://archive.ubuntu.com/ubuntu noble-updates/universe Translation-en [323 kB]
+[33m46% [7 Packages store 0 B] [13 Translation-en 165 kB/323 kB 51%] [Waiti[0m[33m                                                                       47% [7 Packages store 0 B] [Waiting for headers] [Waiting for headers][0m                                                                      Get:14 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 Components [386 kB]
+[33m47% [7 Packages store 0 B] [14 Components-amd64 36.9 kB/386 kB 10%] [Wa[0m[33m                                                                       49% [7 Packages store 0 B] [Waiting for headers] [Waiting for headers][0m                                                                      Get:15 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 c-n-f Metadata [34.3 kB]
+[33m49% [7 Packages store 0 B] [15 Commands-amd64 34.3 kB/34.3 kB 100%] [Wa[0m[33m                                                                       49% [7 Packages store 0 B] [Waiting for headers][0m                                                Get:16 http://archive.ubuntu.com/ubuntu noble-updates/restricted amd64 Packages [2911 kB]
+[33m49% [7 Packages store 0 B] [16 Packages 30.2 kB/2911 kB 1%] [Waiting fo[0m[33m                                                                       51% [16 Packages 262 kB/2911 kB 9%] [Waiting for headers][0m[33m52% [12 Packages store 0 B] [16 Packages 524 kB/2911 kB 18%] [Waiting f[0m                                                                       Get:17 http://security.ubuntu.com/ubuntu noble-security/main Translation-en [253 kB]
+[33m56% [12 Packages store 0 B] [16 Packages 1414 kB/2911 kB 49%] [17 Trans[0m[33m58% [12 Packages store 0 B] [16 Packages 1414 kB/2911 kB 49%] [Waiting [0m                                                                       Get:18 http://security.ubuntu.com/ubuntu noble-security/main amd64 Components [21.5 kB]
+[33m58% [12 Packages store 0 B] [16 Packages 1414 kB/2911 kB 49%] [18 Compo[0m[33m                                                                       58% [12 Packages store 0 B] [16 Packages 1414 kB/2911 kB 49%][0m                                                             Get:19 http://security.ubuntu.com/ubuntu noble-security/main amd64 c-n-f Metadata [10.7 kB]
+[33m58% [12 Packages store 0 B] [16 Packages 1414 kB/2911 kB 49%] [19 Comma[0m[33m58% [12 Packages store 0 B] [16 Packages 1414 kB/2911 kB 49%] [Waiting [0m                                                                       Get:20 http://security.ubuntu.com/ubuntu noble-security/universe amd64 Packages [1170 kB]
+[33m58% [12 Packages store 0 B] [16 Packages 1414 kB/2911 kB 49%] [20 Packa[0m[33m                                                                       65% [16 Packages 1799 kB/2911 kB 62%] [20 Packages 999 kB/1170 kB 85%][0m[33m65% [13 Translation-en store 0 B] [16 Packages 1799 kB/2911 kB 62%] [20[0m[33m                                                                       65% [16 Packages 1799 kB/2911 kB 62%] [20 Packages 999 kB/1170 kB 85%][0m[33m65% [14 Components-amd64 store 0 B] [16 Packages 1799 kB/2911 kB 62%] [[0m[33m                                                                       65% [16 Packages 1799 kB/2911 kB 62%] [20 Packages 999 kB/1170 kB 85%][0m[33m65% [15 Commands-amd64 store 0 B] [16 Packages 1799 kB/2911 kB 62%] [20[0m[33m                                                                       66% [16 Packages 1799 kB/2911 kB 62%] [20 Packages 999 kB/1170 kB 85%][0m[33m66% [17 Translation-en store 0 B] [16 Packages 1799 kB/2911 kB 62%] [20[0m[33m                                                                       66% [16 Packages 1897 kB/2911 kB 65%] [20 Packages 999 kB/1170 kB 85%][0m[33m66% [18 Components-amd64 store 0 B] [16 Packages 1897 kB/2911 kB 65%] [[0m[33m                                                                       66% [16 Packages 1897 kB/2911 kB 65%] [20 Packages 999 kB/1170 kB 85%][0m[33m66% [19 Commands-amd64 store 0 B] [16 Packages 1897 kB/2911 kB 65%] [20[0m[33m                                                                       67% [16 Packages 1897 kB/2911 kB 65%] [20 Packages 999 kB/1170 kB 85%][0m[33m                                                                      72% [Waiting for headers] [20 Packages 999 kB/1170 kB 85%][0m                                                          Get:21 http://archive.ubuntu.com/ubuntu noble-updates/restricted Translation-en [674 kB]
+[33m72% [21 Translation-en 39.6 kB/674 kB 6%] [20 Packages 999 kB/1170 kB 8[0m[33m72% [16 Packages store 0 B] [21 Translation-en 39.6 kB/674 kB 6%] [20 P[0m[33m75% [16 Packages store 0 B] [Waiting for headers] [20 Packages 999 kB/1[0m                                                                       Get:22 http://archive.ubuntu.com/ubuntu noble-updates/restricted amd64 Components [212 B]
+                                                                       Get:23 http://archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 Packages [32.1 kB]
+[33m75% [16 Packages store 0 B] [23 Packages 32.1 kB/32.1 kB 100%] [20 Pack[0m                                                                       Get:24 http://archive.ubuntu.com/ubuntu noble-updates/multiverse Translation-en [7520 B]
+[33m75% [16 Packages store 0 B] [24 Translation-en 7520 B/7520 B 100%] [20 [0m                                                                       Get:25 http://archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 Components [940 B]
+[33m75% [16 Packages store 0 B] [25 Components-amd64 0 B/940 B 0%] [20 Pack[0m[33m                                                                       75% [16 Packages store 0 B] [20 Packages 999 kB/1170 kB 85%][0m                                                            Get:26 http://archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 c-n-f Metadata [500 B]
+[33m75% [16 Packages store 0 B] [26 Commands-amd64 0 B/500 B 0%] [20 Packag[0m[33m75% [16 Packages store 0 B] [Waiting for headers] [20 Packages 999 kB/1[0m                                                                       Get:27 http://archive.ubuntu.com/ubuntu noble-backports/main amd64 Packages [40.4 kB]
+[33m76% [16 Packages store 0 B] [27 Packages 40.4 kB/40.4 kB 100%] [20 Pack[0m                                                                       Get:28 http://archive.ubuntu.com/ubuntu noble-backports/main amd64 Components [7348 B]
+                                                                       Get:29 http://archive.ubuntu.com/ubuntu noble-backports/main amd64 c-n-f Metadata [368 B]
+                                                                       Get:30 http://archive.ubuntu.com/ubuntu noble-backports/universe amd64 Packages [30.7 kB]
+[33m76% [16 Packages store 0 B] [30 Packages 4096 B/30.7 kB 13%] [20 Packag[0m[33m                                                                       76% [16 Packages store 0 B] [20 Packages 999 kB/1170 kB 85%][0m[33m                                                            76% [Waiting for headers] [20 Packages 999 kB/1170 kB 85%][0m[33m76% [21 Translation-en store 0 B] [Waiting for headers] [20 Packages 99[0m[33m                                                                       76% [Waiting for headers] [20 Packages 1000 kB/1170 kB 85%][0m[33m76% [22 Components-amd64 store 0 B] [Waiting for headers] [20 Packages [0m[33m                                                                       76% [Waiting for headers] [20 Packages 1000 kB/1170 kB 85%][0m[33m76% [23 Packages store 0 B] [Waiting for headers] [20 Packages 1000 kB/[0m[33m                                                                       76% [Waiting for headers] [20 Packages 1000 kB/1170 kB 85%][0m[33m76% [24 Translation-en store 0 B] [Waiting for headers] [20 Packages 10[0m[33m                                                                       77% [Waiting for headers] [20 Packages 1000 kB/1170 kB 85%][0m[33m77% [25 Components-amd64 store 0 B] [Waiting for headers] [20 Packages [0m[33m                                                                       77% [Waiting for headers] [20 Packages 1000 kB/1170 kB 85%][0m[33m77% [26 Commands-amd64 store 0 B] [Waiting for headers] [20 Packages 10[0m[33m                                                                       77% [Waiting for headers] [20 Packages 1000 kB/1170 kB 85%][0m[33m77% [27 Packages store 0 B] [Waiting for headers] [20 Packages 1000 kB/[0m[33m                                                                       77% [Waiting for headers] [20 Packages 1000 kB/1170 kB 85%][0m[33m77% [28 Components-amd64 store 0 B] [Waiting for headers] [20 Packages [0m[33m                                                                       77% [Waiting for headers] [20 Packages 1000 kB/1170 kB 85%][0m[33m77% [29 Commands-amd64 store 0 B] [Waiting for headers] [20 Packages 10[0m[33m                                                                       77% [Waiting for headers] [20 Packages 1000 kB/1170 kB 85%][0m[33m77% [30 Packages store 0 B] [Waiting for headers] [20 Packages 1000 kB/[0m[33m                                                                       77% [Waiting for headers] [20 Packages 1000 kB/1170 kB 85%][0m                                                           Get:31 http://archive.ubuntu.com/ubuntu noble-backports/universe Translation-en [18.2 kB]
+[33m78% [31 Translation-en 18.2 kB/18.2 kB 100%] [20 Packages 1000 kB/1170 [0m[33m                                                                       78% [20 Packages 1000 kB/1170 kB 85%][0m                                     Get:32 http://archive.ubuntu.com/ubuntu noble-backports/universe amd64 Components [13.2 kB]
+[33m78% [Waiting for headers] [20 Packages 1000 kB/1170 kB 85%][0m[33m78% [31 Translation-en store 0 B] [Waiting for headers] [20 Packages 10[0m[33m                                                                       78% [Waiting for headers] [20 Packages 1000 kB/1170 kB 85%][0m[33m78% [32 Components-amd64 store 0 B] [Waiting for headers] [20 Packages [0m[33m                                                                       78% [Waiting for headers] [20 Packages 1000 kB/1170 kB 85%][0m                                                           Get:33 http://archive.ubuntu.com/ubuntu noble-backports/universe amd64 c-n-f Metadata [1480 B]
+[33m78% [33 Commands-amd64 1480 B/1480 B 100%] [20 Packages 1006 kB/1170 kB[0m[33m                                                                       78% [Waiting for headers] [20 Packages 1006 kB/1170 kB 86%][0m                                                           Get:34 http://archive.ubuntu.com/ubuntu noble-backports/restricted amd64 Components [216 B]
+[33m78% [34 Components-amd64 216 B/216 B 100%] [20 Packages 1006 kB/1170 kB[0m[33m78% [33 Commands-amd64 store 0 B] [34 Components-amd64 216 B/216 B 100%[0m[33m78% [33 Commands-amd64 store 0 B] [Waiting for headers] [20 Packages 10[0m[33m                                                                       78% [Waiting for headers] [20 Packages 1006 kB/1170 kB 86%][0m[33m78% [34 Components-amd64 store 0 B] [Waiting for headers] [20 Packages [0m[33m                                                                       78% [Waiting for headers] [20 Packages 1006 kB/1170 kB 86%][0m                                                           Get:35 http://archive.ubuntu.com/ubuntu noble-backports/multiverse amd64 Packages [780 B]
+[33m                                                           78% [20 Packages 1006 kB/1170 kB 86%][0m                                     Get:36 http://archive.ubuntu.com/ubuntu noble-backports/multiverse Translation-en [372 B]
+                                     Get:37 http://archive.ubuntu.com/ubuntu noble-backports/multiverse amd64 Components [212 B]
+[33m78% [20 Packages 1006 kB/1170 kB 86%][0m[33m79% [20 Packages 1006 kB/1170 kB 86%][0m[33m79% [37 Components-amd64 store 0 B] [20 Packages 1006 kB/1170 kB 86%][0m[33m                                                                     79% [20 Packages 1006 kB/1170 kB 86%][0m[33m80% [Waiting for headers]                                  1997 kB/s 1s[0m                                                                       Get:38 http://security.ubuntu.com/ubuntu noble-security/universe Translation-en [225 kB]
+[33m                                                                       80% [20 Packages store 0 B] [38 Translation-en 20.5 kB/225 kB 9%][0m[33m81% [20 Packages store 0 B] [Waiting for headers]          1997 kB/s 1s[0m                                                                       Get:39 http://security.ubuntu.com/ubuntu noble-security/universe amd64 Components [74.3 kB]
+[33m                                                                       81% [20 Packages store 0 B] [39 Components-amd64 57.3 kB/74.3 kB 77%][0m                                                                     Get:40 http://security.ubuntu.com/ubuntu noble-security/universe amd64 c-n-f Metadata [22.9 kB]
+                                                                     Get:41 http://security.ubuntu.com/ubuntu noble-security/restricted amd64 Packages [2763 kB]
+[33m                                                                     81% [20 Packages store 0 B] [41 Packages 20.5 kB/2763 kB 1%][0m[33m90% [41 Packages 1622 kB/2763 kB 59%]                      1997 kB/s 0s[0m[33m                                                                       90% [38 Translation-en store 0 B] [41 Packages 1622 kB/2763 kB 59%][0m[33m90% [41 Packages 1622 kB/2763 kB 59%]                      1997 kB/s 0s[0m[33m                                                                       90% [39 Components-amd64 store 0 B] [41 Packages 1622 kB/2763 kB 59%][0m[33m90% [41 Packages 1665 kB/2763 kB 60%]                      1997 kB/s 0s[0m[33m                                                                       90% [40 Commands-amd64 store 0 B] [41 Packages 1665 kB/2763 kB 60%][0m[33m90% [41 Packages 1665 kB/2763 kB 60%]                      1997 kB/s 0s[0m[33m91% [41 Packages 1751 kB/2763 kB 63%]                      1997 kB/s 0s[0m[33m96% [Waiting for headers]                                  1997 kB/s 0s[0m                                                                       Get:42 http://security.ubuntu.com/ubuntu noble-security/restricted Translation-en [644 kB]
+[33m96% [42 Translation-en 1921 B/644 kB 0%]                   1997 kB/s 0s[0m[33m                                                                       96% [41 Packages store 0 B] [42 Translation-en 1921 B/644 kB 0%][0m[33m99% [41 Packages store 0 B] [Waiting for headers]          1997 kB/s 0s[0m                                                                       Get:43 http://security.ubuntu.com/ubuntu noble-security/restricted amd64 Components [212 B]
+                                                                       Get:44 http://security.ubuntu.com/ubuntu noble-security/multiverse Translation-en [6980 B]
+[33m                                                                       99% [41 Packages store 0 B] [44 Translation-en 6979 B/6980 B 100%][0m[33m99% [41 Packages store 0 B] [Waiting for headers]          1997 kB/s 0s[0m                                                                       Get:45 http://security.ubuntu.com/ubuntu noble-security/multiverse amd64 Components [212 B]
+[33m                                                                       99% [41 Packages store 0 B] [45 Components-amd64 212 B/212 B 100%][0m[33m99% [41 Packages store 0 B]                                1997 kB/s 0s[0m[33m99% [Working]                                              1997 kB/s 0s[0m[33m99% [42 Translation-en store 0 B]                          1997 kB/s 0s[0m[33m100% [Working]                                             1997 kB/s 0s[0m[33m100% [43 Components-amd64 store 0 B]                       1997 kB/s 0s[0m[33m100% [Working]                                             1997 kB/s 0s[0m[33m100% [44 Translation-en store 0 B]                         1997 kB/s 0s[0m[33m100% [Working]                                             1997 kB/s 0s[0m[33m100% [45 Components-amd64 store 0 B]                       1997 kB/s 0s[0m[33m100% [Working]                                             1997 kB/s 0s[0m                                                                       Fetched 15.8 MB in 8s (1998 kB/s)
+
+Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 3%Reading package lists... 3%Reading package lists... 4%Reading package lists... 4%Reading package lists... 31%Reading package lists... 35%Reading package lists... 35%Reading package lists... 48%Reading package lists... 48%Reading package lists... 49%Reading package lists... 49%Reading package lists... 49%Reading package lists... 49%Reading package lists... 49%Reading package lists... 49%Reading package lists... 50%Reading package lists... 50%Reading package lists... 54%Reading package lists... 54%Reading package lists... 57%Reading package lists... 57%Reading package lists... 62%Reading package lists... 62%Reading package lists... 63%Reading package lists... 63%^C
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7msudo apt update[27msudo apt update
+[?2004l[33m0% [Working][0m            Hit:1 https://download.docker.com/linux/ubuntu noble InRelease
+[33m0% [Connecting to archive.ubuntu.com (91.189.91.82)] [Connecting to sec[0m[33m0% [Connecting to archive.ubuntu.com (91.189.91.82)] [Connecting to sec[0m                                                                       Hit:2 http://archive.ubuntu.com/ubuntu noble InRelease
+[33m                                                                       0% [Connecting to security.ubuntu.com (91.189.92.22)][0m[33m0% [Waiting for headers] [Connecting to security.ubuntu.com (91.189.91.[0m                                                                       Hit:3 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+[33m                                                                       0% [Waiting for headers][0m[33m0% [Waiting for headers] [Waiting for headers][0m                                              Hit:4 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+[33m                                              0% [Waiting for headers][0m                        Hit:5 http://security.ubuntu.com/ubuntu noble-security InRelease
+[33m                        0% [Working][0m[33m0% [Working][0m[33m20% [Working][0m             Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 3%Reading package lists... 3%Reading package lists... 4%Reading package lists... 4%Reading package lists... 23%Reading package lists... 35%Reading package lists... 35%Reading package lists... 48%Reading package lists... 48%Reading package lists... 49%Reading package lists... 49%Reading package lists... 49%Reading package lists... 49%Reading package lists... 49%Reading package lists... 49%Reading package lists... 50%Reading package lists... 50%Reading package lists... 50%Reading package lists... 54%Reading package lists... 54%Reading package lists... 57%Reading package lists... 57%Reading package lists... 62%Reading package lists... 62%Reading package lists... 63%Reading package lists... 63%Reading package lists... 70%Reading package lists... 70%Reading package lists... 76%Reading package lists... 76%Reading package lists... 76%Reading package lists... 76%Reading package lists... 76%Reading package lists... 76%Reading package lists... 76%Reading package lists... 76%Reading package lists... 76%Reading package lists... 76%Reading package lists... 76%Reading package lists... 76%Reading package lists... 76%Reading package lists... 76%Reading package lists... 76%Reading package lists... 76%Reading package lists... 76%Reading package lists... 76%Reading package lists... 80%Reading package lists... 80%Reading package lists... 83%Reading package lists... 83%Reading package lists... 86%Reading package lists... 86%Reading package lists... 87%Reading package lists... 87%Reading package lists... 94%Reading package lists... 94%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
+Reading state information... 0% Reading state information... 0%Reading state information... Done
+81 packages can be upgraded. Run 'apt list --upgradable' to see them.
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7msudo apt install htop[27msudo apt install htop
+[?2004lReading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
+Reading state information... 0% Reading state information... 0%Reading state information... Done
+The following additional packages will be installed:
+  libnl-3-200 libnl-genl-3-200
+Suggested packages:
+  lm-sensors strace
+The following NEW packages will be installed:
+  htop libnl-3-200 libnl-genl-3-200
+0 upgraded, 3 newly installed, 0 to remove and 81 not upgraded.
+Need to get 238 kB of archives.
+After this operation, 665 kB of additional disk space will be used.
+Do you want to continue? [Y/n] 
+[33m0% [Working][0m[33m0% [Waiting for headers][0m                        Get:1 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libnl-3-200 amd64 3.7.0-0.3build1.1 [55.7 kB]
+[33m4% [1 libnl-3-200 10.5 kB/55.7 kB 19%][0m[33m13% [1 libnl-3-200 40.1 kB/55.7 kB 72%][0m[33m                                       25% [Working][0m             Get:2 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libnl-genl-3-200 amd64 3.7.0-0.3build1.1 [12.2 kB]
+[33m29% [2 libnl-genl-3-200 11.8 kB/12.2 kB 97%][0m[33m                                            36% [Waiting for headers][0m                         Get:3 http://archive.ubuntu.com/ubuntu noble/main amd64 htop amd64 3.3.0-4build1 [171 kB]
+[33m36% [3 htop 666 B/171 kB 0%][0m[33m77% [3 htop 122 kB/171 kB 72%][0m[33m                              100% [Working][0m              Fetched 238 kB in 2s (105 kB/s)
+
+7[0;41r8[1ASelecting previously unselected package libnl-3-200:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 41615 files and directories currently installed.)
+Preparing to unpack .../libnl-3-200_3.7.0-0.3build1.1_amd64.deb ...
+7[42;0f[42m[30mProgress: [  0%][49m[39m [..................................................] 87[42;0f[42m[30mProgress: [  8%][49m[39m [###...............................................] 8Unpacking libnl-3-200:amd64 (3.7.0-0.3build1.1) ...
+7[42;0f[42m[30mProgress: [ 15%][49m[39m [#######...........................................] 8Selecting previously unselected package libnl-genl-3-200:amd64.
+Preparing to unpack .../libnl-genl-3-200_3.7.0-0.3build1.1_amd64.deb ...
+7[42;0f[42m[30mProgress: [ 23%][49m[39m [###########.......................................] 8Unpacking libnl-genl-3-200:amd64 (3.7.0-0.3build1.1) ...
+7[42;0f[42m[30mProgress: [ 31%][49m[39m [###############...................................] 8Selecting previously unselected package htop.
+Preparing to unpack .../htop_3.3.0-4build1_amd64.deb ...
+7[42;0f[42m[30mProgress: [ 38%][49m[39m [###################...............................] 8Unpacking htop (3.3.0-4build1) ...
+7[42;0f[42m[30mProgress: [ 46%][49m[39m [#######################...........................] 8Setting up libnl-3-200:amd64 (3.7.0-0.3build1.1) ...
+7[42;0f[42m[30mProgress: [ 54%][49m[39m [##########################........................] 87[42;0f[42m[30mProgress: [ 62%][49m[39m [##############################....................] 8Setting up libnl-genl-3-200:amd64 (3.7.0-0.3build1.1) ...
+7[42;0f[42m[30mProgress: [ 69%][49m[39m [##################################................] 87[42;0f[42m[30mProgress: [ 77%][49m[39m [######################################............] 8Setting up htop (3.3.0-4build1) ...
+7[42;0f[42m[30mProgress: [ 85%][49m[39m [##########################################........] 87[42;0f[42m[30mProgress: [ 92%][49m[39m [##############################################....] 8Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.7) ...
+
+7[0;42r8[1A[J[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mgit add .[27mgit add .
+[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ git add
+[?2004lNothing specified, nothing added.
+[33mhint: Maybe you wanted to say 'git add .'?[m
+[33mhint: Turn this message off by running[m
+[33mhint: "git config advice.addEmptyPathspec false"[m
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ git add.
+[?2004lgit: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+	add
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mgit push origin main[27mgit push origin main
+[?2004lUsername for 'https://github.com': https://github.com/59nc5rfkdt-star/LNUX_20231412
+Password for 'https://https%3A%2F%2Fgithub.com%2F59nc5rfkdt-star%2FLNUX_20231412@github.com': 
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/59nc5rfkdt-star/LNUX_20231412/'
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mgit push origin main[27mgit push origin main
+[?2004lUsername for 'https://github.com':
+
+Everything up-to-date
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ git status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   2026_20231412_week05_log.txt[m
+	[32mnew file:   "2026_\355\225\231\353\262\210_week05_log.txt"[m
+	[32mnew file:   t.txt[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   ../../.bash_history[m
+	[31mmodified:   ../../2026_20231412_week02_log.txt[m
+	[31mmodified:   ../week02/2026_20231412_week02_log.txt[m
+	[31mmodified:   ../week02/t.txt[m
+	[31mmodified:   2026_20231412_week05_log.txt[m
+	[31mmodified:   "2026_\355\225\231\353\262\210_week05_log.txt"[m
+	[31mmodified:   t.txt[m
+	[31mmodified:   ../../t.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m../../.landscape/[m
+	[31m../../get-docker.sh[m
+	[31m../get-docker.sh[m
+	[31m../week02/www/[m
+
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ git add .
+[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mgit commit -m "수정사항 업데이트"[27mgit commit -m "수정사항 업데이트"
+[?2004l[main 4cdfc11] 수정사항 업데이트
+ 3 files changed, 1094 insertions(+)
+ create mode 100644 linux/week05/2026_20231412_week05_log.txt
+ create mode 100644 "linux/week05/2026_\355\225\231\353\262\210_week05_log.txt"
+ create mode 100644 linux/week05/t.txt
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mgit push origin main[27mgi
+ 
+Enumerating objects: 9, done.
+Counting objects:  11% (1/9)Counting objects:  22% (2/9)Counting objects:  33% (3/9)Counting objects:  44% (4/9)Counting objects:  55% (5/9)Counting objects:  66% (6/9)Counting objects:  77% (7/9)Counting objects:  88% (8/9)Counting objects: 100% (9/9)Counting objects: 100% (9/9), done.
+Delta compression using up to 16 threads
+Compressing objects:  14% (1/7)Compressing objects:  28% (2/7)Compressing objects:  42% (3/7)Compressing objects:  57% (4/7)Compressing objects:  71% (5/7)Compressing objects:  85% (6/7)Compressing objects: 100% (7/7)Compressing objects: 100% (7/7), done.
+Writing objects:  14% (1/7)Writing objects:  28% (2/7)Writing objects:  42% (3/7)Writing objects:  57% (4/7)Writing objects:  85% (6/7)Writing objects: 100% (7/7)Writing objects: 100% (7/7), 9.88 KiB | 1.65 MiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 1 local object.[K
+remote: [1;31merror[m: GH013: Repository rule violations found for refs/heads/main.[K
+remote: 
+remote: - GITHUB PUSH PROTECTION[K
+remote:   —————————————————————————————————————————[K
+remote:     Resolve the following violations before pushing again[K
+remote: 
+remote:     - Push cannot contain secrets[K
+remote: 
+remote:     [K
+remote:      (?) Learn how to resolve a blocked push[K
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push[K
+remote:     [K
+remote:     [K
+remote:       —— GitHub Personal Access Token ——————————————————————[K
+remote:        locations:[K
+remote:          - commit: 4cdfc11540114dffca83a6b9ff594033e18df703[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:245[K
+remote:          - commit: 4cdfc11540114dffca83a6b9ff594033e18df703[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:246[K
+remote:          - commit: 4cdfc11540114dffca83a6b9ff594033e18df703[K
+remote:            path: linux/week05/2026_학번_week05_log.txt:248[K
+remote:          - commit: 4cdfc11540114dffca83a6b9ff594033e18df703[K
+remote:            path: linux/week05/2026_학번_week05_log.txt:249[K
+remote:     [K
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.[K
+remote:        https://github.com/59nc5rfkdt-star/LNUX_20231412/security/secret-scanning/unblock-secret/3C93c1olZMe8IySvJvgOBNdKgSA[K
+remote:     [K
+remote: 
+remote: 
+To https://github.com/59nc5rfkdt-star/LNUX_20231412
+ [31m! [remote rejected][m main -> main (push declined due to repository rule violations)
+[31merror: failed to push some refs to 'https://github.com/59nc5rfkdt-star/LNUX_20231412'
+[m[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mgit push origin main[27mgit push origin main
+[?2004lUsername for 'https://github.com': https://github.com/59nc5rfkdt-star/LNUX_20231412
+Password for 'https://https%3A%2F%2Fgithub.com%2F59nc5rfkdt-star%2FLNUX_20231412@github.com': 
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/59nc5rfkdt-star/LNUX_20231412/'
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mgit push origin main[27mgit push origin main
+[?2004lUsername for 'https://github.com': 59nc5rfkdt-star/LNUX_20231412
+Password for 'https://59nc5rfkdt-star%2FLNUX_20231412@github.com': 
+Enumerating objects: 9, done.
+Counting objects:  11% (1/9)Counting objects:  22% (2/9)Counting objects:  33% (3/9)Counting objects:  44% (4/9)Counting objects:  55% (5/9)Counting objects:  66% (6/9)Counting objects:  77% (7/9)Counting objects:  88% (8/9)Counting objects: 100% (9/9)Counting objects: 100% (9/9), done.
+Delta compression using up to 16 threads
+Compressing objects:  14% (1/7)Compressing objects:  28% (2/7)Compressing objects:  42% (3/7)Compressing objects:  57% (4/7)Compressing objects:  71% (5/7)Compressing objects:  85% (6/7)Compressing objects: 100% (7/7)Compressing objects: 100% (7/7), done.
+Writing objects:  14% (1/7)Writing objects:  28% (2/7)Writing objects:  42% (3/7)Writing objects:  57% (4/7)Writing objects:  85% (6/7)Writing objects: 100% (7/7)Writing objects: 100% (7/7), 9.88 KiB | 2.47 MiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 1 local object.[K
+remote: [1;31merror[m: GH013: Repository rule violations found for refs/heads/main.[K
+remote: 
+remote: - GITHUB PUSH PROTECTION[K
+remote:   —————————————————————————————————————————[K
+remote:     Resolve the following violations before pushing again[K
+remote: 
+remote:     - Push cannot contain secrets[K
+remote: 
+remote:     [K
+remote:      (?) Learn how to resolve a blocked push[K
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push[K
+remote:     [K
+remote:     [K
+remote:       —— GitHub Personal Access Token ——————————————————————[K
+remote:        locations:[K
+remote:          - commit: 4cdfc11540114dffca83a6b9ff594033e18df703[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:245[K
+remote:          - commit: 4cdfc11540114dffca83a6b9ff594033e18df703[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:246[K
+remote:          - commit: 4cdfc11540114dffca83a6b9ff594033e18df703[K
+remote:            path: linux/week05/2026_학번_week05_log.txt:248[K
+remote:          - commit: 4cdfc11540114dffca83a6b9ff594033e18df703[K
+remote:            path: linux/week05/2026_학번_week05_log.txt:249[K
+remote:     [K
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.[K
+remote:        https://github.com/59nc5rfkdt-star/LNUX_20231412/security/secret-scanning/unblock-secret/3C93c1olZMe8IySvJvgOBNdKgSA[K
+remote:     [K
+remote: 
+remote: 
+To https://github.com/59nc5rfkdt-star/LNUX_20231412
+ [31m! [remote rejected][m main -> main (push declined due to repository rule violations)
+[31merror: failed to push some refs to 'https://github.com/59nc5rfkdt-star/LNUX_20231412'
+[m[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mgit push origin main[27mgit push origin main
+[?2004lUsername 
+Enumerating objects: 9, done.
+Counting objects:  11% (1/9)Counting objects:  22% (2/9)Counting objects:  33% (3/9)Counting objects:  44% (4/9)Counting objects:  55% (5/9)Counting objects:  66% (6/9)Counting objects:  77% (7/9)Counting objects:  88% (8/9)Counting objects: 100% (9/9)Counting objects: 100% (9/9), done.
+Delta compression using up to 16 threads
+Compressing objects:  14% (1/7)Compressing objects:  28% (2/7)Compressing objects:  42% (3/7)Compressing objects:  57% (4/7)Compressing objects:  71% (5/7)Compressing objects:  85% (6/7)Compressing objects: 100% (7/7)Compressing objects: 100% (7/7), done.
+Writing objects:  14% (1/7)Writing objects:  28% (2/7)Writing objects:  42% (3/7)Writing objects:  57% (4/7)Writing objects:  85% (6/7)Writing objects: 100% (7/7)Writing objects: 100% (7/7), 9.88 KiB | 2.47 MiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 1 local object.[K
+remote: [1;31merror[m: GH013: Repository rule violations found for refs/heads/main.[K
+remote: 
+remote: - GITHUB PUSH PROTECTION[K
+remote:   —————————————————————————————————————————[K
+remote:     Resolve the following violations before pushing again[K
+remote: 
+remote:     - Push cannot contain secrets[K
+remote: 
+remote:     [K
+remote:      (?) Learn how to resolve a blocked push[K
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push[K
+remote:     [K
+remote:     [K
+remote:       —— GitHub Personal Access Token ——————————————————————[K
+remote:        locations:[K
+remote:          - commit: 4cdfc11540114dffca83a6b9ff594033e18df703[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:245[K
+remote:          - commit: 4cdfc11540114dffca83a6b9ff594033e18df703[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:246[K
+remote:          - commit: 4cdfc11540114dffca83a6b9ff594033e18df703[K
+remote:            path: linux/week05/2026_학번_week05_log.txt:248[K
+remote:          - commit: 4cdfc11540114dffca83a6b9ff594033e18df703[K
+remote:            path: linux/week05/2026_학번_week05_log.txt:249[K
+remote:     [K
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.[K
+remote:        https://github.com/59nc5rfkdt-star/LNUX_20231412/security/secret-scanning/unblock-secret/3C93c1olZMe8IySvJvgOBNdKgSA[K
+remote:     [K
+remote: 
+remote: 
+To https://github.com/59nc5rfkdt-star/LNUX_20231412
+ [31m! [remote rejected][m main -> main (push declined due to repository rule violations)
+[31merror: failed to push some refs to 'https://github.com/59nc5rfkdt-star/LNUX_20231412'
+[m[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mgit reset --soft HEAD~1[27mgit reset --soft HEAD~1
+[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mgit add .[27m
+[7mgit commit -m "실습 로그에서 토큰 삭제 및 업데이트"[27m[Agit add .
+git commit -m "실습 로그에서 토큰 삭제 및 업데이트"
+[?2004l[main f0cf237] 실습 로그에서 토큰 삭제 및 업데이트
+ 3 files changed, 1476 insertions(+)
+ create mode 100644 linux/week05/2026_20231412_week05_log.txt
+ create mode 100644 "linux/week05/2026_\355\225\231\353\262\210_week05_log.txt"
+ create mode 100644 linux/week05/t.txt
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mgit push origin main[27mgit push origin main
+[?2004lUsername for 'https://github.com': 59nc5rfkdt-star
+Password for 'https://59nc5rfkdt-star@github.com': 
+Enumerating objects: 9, done.
+Counting objects:  11% (1/9)Counting objects:  22% (2/9)Counting objects:  33% (3/9)Counting objects:  44% (4/9)Counting objects:  55% (5/9)Counting objects:  66% (6/9)Counting objects:  77% (7/9)Counting objects:  88% (8/9)Counting objects: 100% (9/9)Counting objects: 100% (9/9), done.
+Delta compression using up to 16 threads
+Compressing objects:  14% (1/7)Compressing objects:  28% (2/7)Compressing objects:  42% (3/7)Compressing objects:  57% (4/7)Compressing objects:  71% (5/7)Compressing objects:  85% (6/7)Compressing objects: 100% (7/7)Compressing objects: 100% (7/7), done.
+Writing objects:  14% (1/7)Writing objects:  28% (2/7)Writing objects:  42% (3/7)Writing objects:  57% (4/7)Writing objects:  85% (6/7)Writing objects: 100% (7/7)Writing objects: 100% (7/7), 11.50 KiB | 1.28 MiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 1 local object.[K
+remote: [1;31merror[m: GH013: Repository rule violations found for refs/heads/main.[K
+remote: 
+remote: - GITHUB PUSH PROTECTION[K
+remote:   —————————————————————————————————————————[K
+remote:     Resolve the following violations before pushing again[K
+remote: 
+remote:     - Push cannot contain secrets[K
+remote: 
+remote:     [K
+remote:      (?) Learn how to resolve a blocked push[K
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push[K
+remote:     [K
+remote:     [K
+remote:       —— GitHub Personal Access Token ——————————————————————[K
+remote:        locations:[K
+remote:          - commit: f0cf237fba82d597768b391885a258a29eeb8a82[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:245[K
+remote:          - commit: f0cf237fba82d597768b391885a258a29eeb8a82[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:246[K
+remote:          - commit: f0cf237fba82d597768b391885a258a29eeb8a82[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:285[K
+remote:          - commit: f0cf237fba82d597768b391885a258a29eeb8a82[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:286[K
+remote:          - commit: f0cf237fba82d597768b391885a258a29eeb8a82[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:374[K
+remote:     [K
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.[K
+remote:        https://github.com/59nc5rfkdt-star/LNUX_20231412/security/secret-scanning/unblock-secret/3C93c1olZMe8IySvJvgOBNdKgSA[K
+remote:     [K
+remote: 
+remote: 
+To https://github.com/59nc5rfkdt-star/LNUX_20231412
+ [31m! [remote rejected][m main -> main (push declined due to repository rule violations)
+[31merror: failed to push some refs to 'https://github.com/59nc5rfkdt-star/LNUX_20231412'
+[m[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mgit push origin main[27mgit push origin main
+[?2004lUsername for 'https://github.com': 59nc5rfkdt-star/ 
+Password for 'https://59nc5rfkdt-star@github.com': 
+Enumerating objects: 9, done.
+Counting objects:  11% (1/9)Counting objects:  22% (2/9)Counting objects:  33% (3/9)Counting objects:  44% (4/9)Counting objects:  55% (5/9)Counting objects:  66% (6/9)Counting objects:  77% (7/9)Counting objects:  88% (8/9)Counting objects: 100% (9/9)Counting objects: 100% (9/9), done.
+Delta compression using up to 16 threads
+Compressing objects:  14% (1/7)Compressing objects:  28% (2/7)Compressing objects:  42% (3/7)Compressing objects:  57% (4/7)Compressing objects:  71% (5/7)Compressing objects:  85% (6/7)Compressing objects: 100% (7/7)Compressing objects: 100% (7/7), done.
+Writing objects:  14% (1/7)Writing objects:  28% (2/7)Writing objects:  42% (3/7)Writing objects:  57% (4/7)Writing objects:  85% (6/7)Writing objects: 100% (7/7)Writing objects: 100% (7/7), 11.50 KiB | 1.44 MiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 1 local object.[K
+remote: [1;31merror[m: GH013: Repository rule violations found for refs/heads/main.[K
+remote: 
+remote: - GITHUB PUSH PROTECTION[K
+remote:   —————————————————————————————————————————[K
+remote:     Resolve the following violations before pushing again[K
+remote: 
+remote:     - Push cannot contain secrets[K
+remote: 
+remote:     [K
+remote:      (?) Learn how to resolve a blocked push[K
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push[K
+remote:     [K
+remote:     [K
+remote:       —— GitHub Personal Access Token ——————————————————————[K
+remote:        locations:[K
+remote:          - commit: f0cf237fba82d597768b391885a258a29eeb8a82[K
+remote:            path: linux/week05/2026_학번_week05_log.txt:248[K
+remote:          - commit: f0cf237fba82d597768b391885a258a29eeb8a82[K
+remote:            path: linux/week05/2026_학번_week05_log.txt:249[K
+remote:          - commit: f0cf237fba82d597768b391885a258a29eeb8a82[K
+remote:            path: linux/week05/2026_학번_week05_log.txt:288[K
+remote:          - commit: f0cf237fba82d597768b391885a258a29eeb8a82[K
+remote:            path: linux/week05/2026_학번_week05_log.txt:289[K
+remote:          - commit: f0cf237fba82d597768b391885a258a29eeb8a82[K
+remote:            path: linux/week05/2026_학번_week05_log.txt:377[K
+remote:     [K
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.[K
+remote:        https://github.com/59nc5rfkdt-star/LNUX_20231412/security/secret-scanning/unblock-secret/3C93c1olZMe8IySvJvgOBNdKgSA[K
+remote:     [K
+remote: 
+remote: 
+To https://github.com/59nc5rfkdt-star/LNUX_20231412
+ [31m! [remote rejected][m main -> main (push declined due to repository rule violations)
+[31merror: failed to push some refs to 'https://github.com/59nc5rfkdt-star/LNUX_20231412'
+[m[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mgit push origin main[27mgit push origin main
+[?2004lUsername for 'https://github.com
+Password for Enumerating objects: 9, done.
+Counting objects:  11% (1/9)Counting objects:  22% (2/9)Counting objects:  33% (3/9)Counting objects:  44% (4/9)Counting objects:  55% (5/9)Counting objects:  66% (6/9)Counting objects:  77% (7/9)Counting objects:  88% (8/9)Counting objects: 100% (9/9)Counting objects: 100% (9/9), done.
+Delta compression using up to 16 threads
+Compressing objects:  14% (1/7)Compressing objects:  28% (2/7)Compressing objects:  42% (3/7)Compressing objects:  57% (4/7)Compressing objects:  71% (5/7)Compressing objects:  85% (6/7)Compressing objects: 100% (7/7)Compressing objects: 100% (7/7), done.
+Writing objects:  14% (1/7)Writing objects:  28% (2/7)Writing objects:  42% (3/7)Writing objects:  57% (4/7)Writing objects:  85% (6/7)Writing objects: 100% (7/7)Writing objects: 100% (7/7), 11.50 KiB | 1.44 MiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 1 local object.[K
+remote: [1;31merror[m: GH013: Repository rule violations found for refs/heads/main.[K
+remote: 
+remote: - GITHUB PUSH PROTECTION[K
+remote:   —————————————————————————————————————————[K
+remote:     Resolve the following violations before pushing again[K
+remote: 
+remote:     - Push cannot contain secrets[K
+remote: 
+remote:     [K
+remote:      (?) Learn how to resolve a blocked push[K
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push[K
+remote:     [K
+remote:     [K
+remote:       —— GitHub Personal Access Token ——————————————————————[K
+remote:        locations:[K
+remote:          - commit: f0cf237fba82d597768b391885a258a29eeb8a82[K
+remote:            path: linux/week05/2026_학번_week05_log.txt:248[K
+remote:          - commit: f0cf237fba82d597768b391885a258a29eeb8a82[K
+remote:            path: linux/week05/2026_학번_week05_log.txt:249[K
+remote:          - commit: f0cf237fba82d597768b391885a258a29eeb8a82[K
+remote:            path: linux/week05/2026_학번_week05_log.txt:288[K
+remote:          - commit: f0cf237fba82d597768b391885a258a29eeb8a82[K
+remote:            path: linux/week05/2026_학번_week05_log.txt:289[K
+remote:          - commit: f0cf237fba82d597768b391885a258a29eeb8a82[K
+remote:            path: linux/week05/2026_학번_week05_log.txt:377[K
+remote:     [K
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.[K
+remote:        https://github.com/59nc5rfkdt-star/LNUX_20231412/security/secret-scanning/unblock-secret/3C93c1olZMe8IySvJvgOBNdKgSA[K
+remote:     [K
+remote: 
+remote: 
+To https://github.com/59nc5rfkdt-star/LNUX_20231412
+ [31m! [remote rejected][m main -> main (push declined due to repository rule violations)
+[31merror: failed to push some refs to 'https://github.com/59nc5rfkdt-star/LNUX_20231412'
+[m[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mgit reset --soft HEAD~1[27mgit reset --soft HEAD~1
+[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mnano 2026_학번_week05_log.txt[27mnano 2026_학번_week05_log.txt
+[?2004l[?2004h[?1049h[22;0;0t[1;42r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[40;30H(B[0;7m[ Reading... ](B[m
+[40;29H[1K (B[0;7m[ Writing... ](B[m[K[1;52H(B[0;7m [71G(B[m[40;27H(B[0;7m[ Wrote 558 lines ](B[m[J[42d[?12l[?25h[42;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mgit add .[27m
+[7mgit commit -m "실습 로그에서 토큰 완전히 삭제"[27m
+[7mgit push origin main[27m[A[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ git add .
+git commit -m "실습 로그에서 토큰 완전히 삭제"
+git push origin main
+[?2004l[main b561925] 실습 로그에서 토큰 완전히 삭제
+ 3 files changed, 3374 insertions(+)
+ create mode 100644 linux/week05/2026_20231412_week05_log.txt
+ create mode 100644 "linux/week05/2026_\355\225\231\353\262\210_week05_log.txt"
+ create mode 100644 linux/week05/t.txt
+Username for 'https://github.com': 59nc5rfkdt-star
+Password for 'https://59nc5rfkdt-star@github.com': 
+Enumerating objects: 9, done.
+Counting objects:  11% (1/9)Counting objects:  22% (2/9)Counting objects:  33% (3/9)Counting objects:  44% (4/9)Counting objects:  55% (5/9)Counting objects:  66% (6/9)Counting objects:  77% (7/9)Counting objects:  88% (8/9)Counting objects: 100% (9/9)Counting objects: 100% (9/9), done.
+Delta compression using up to 16 threads
+Compressing objects:  14% (1/7)Compressing objects:  28% (2/7)Compressing objects:  42% (3/7)Compressing objects:  57% (4/7)Compressing objects:  71% (5/7)Compressing objects:  85% (6/7)Compressing objects: 100% (7/7)Compressing objects: 100% (7/7), done.
+Writing objects:  14% (1/7)Writing objects:  28% (2/7)Writing objects:  42% (3/7)Writing objects:  57% (4/7)Writing objects:  85% (6/7)Writing objects: 100% (7/7)Writing objects: 100% (7/7), 25.54 KiB | 1.60 MiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 1 local object.[K
+remote: [1;31merror[m: GH013: Repository rule violations found for refs/heads/main.[K
+remote: 
+remote: - GITHUB PUSH PROTECTION[K
+remote:   —————————————————————————————————————————[K
+remote:     Resolve the following violations before pushing again[K
+remote: 
+remote:     - Push cannot contain secrets[K
+remote: 
+remote:     [K
+remote:      (?) Learn how to resolve a blocked push[K
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push[K
+remote:     [K
+remote:     [K
+remote:       —— GitHub Personal Access Token ——————————————————————[K
+remote:        locations:[K
+remote:          - commit: b561925c0ac672164d3c965eb21c18fbf5d58d01[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:245[K
+remote:          - commit: b561925c0ac672164d3c965eb21c18fbf5d58d01[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:246[K
+remote:          - commit: b561925c0ac672164d3c965eb21c18fbf5d58d01[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:285[K
+remote:          - commit: b561925c0ac672164d3c965eb21c18fbf5d58d01[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:286[K
+remote:          - commit: b561925c0ac672164d3c965eb21c18fbf5d58d01[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:374[K
+remote:     [K
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.[K
+remote:        https://github.com/59nc5rfkdt-star/LNUX_20231412/security/secret-scanning/unblock-secret/3C93c1olZMe8IySvJvgOBNdKgSA[K
+remote:     [K
+remote:     [K
+remote:       —— GitHub Personal Access Token ——————————————————————[K
+remote:        locations:[K
+remote:          - commit: b561925c0ac672164d3c965eb21c18fbf5d58d01[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:513[K
+remote:          - commit: b561925c0ac672164d3c965eb21c18fbf5d58d01[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:514[K
+remote:          - commit: b561925c0ac672164d3c965eb21c18fbf5d58d01[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:562[K
+remote:          - commit: b561925c0ac672164d3c965eb21c18fbf5d58d01[K
+remote:            path: linux/week05/2026_20231412_week05_log.txt:563[K
+remote:     [K
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.[K
+remote:        https://github.com/59nc5rfkdt-star/LNUX_20231412/security/secret-scanning/unblock-secret/3C96JdRcEV54aqomVuP4l6n4wEo[K
+remote:     [K
+remote: 
+remote: 
+To https://github.com/59nc5rfkdt-star/LNUX_20231412
+ [31m! [remote rejected][m main -> main (push declined due to repository rule violations)
+[31merror: failed to push some refs to 'https://github.com/59nc5rfkdt-star/LNUX_20231412'
+[m[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mgit reset --soft HEAD~1[27mgit reset --soft HEAD~1
+[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7msed -i 's/ghp_[a-zA-Z0-9]*/[토큰삭[27m[7m제[27m[7m됨]/g' 2026_20231412_week05_log.txt[27m[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ sed -i 's/ghp_[a-zA-Z0-9]*/[토큰삭제됨]/g' 2026_20231412_week05_log.txt
+[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mgit add .[27m
+[7mgit commit -m "로그 파일 내 모든 토큰 일괄 삭제"[27m[Agit add .
+git commit -m "로그 파일 내 모든 토큰 일괄 삭제"
+[?2004l
