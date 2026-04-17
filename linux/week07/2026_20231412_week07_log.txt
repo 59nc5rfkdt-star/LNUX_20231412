@@ -1,0 +1,108 @@
+Script started on 2026-04-17 09:28:03+09:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="72" LINES="42"]
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7m docker ps[27m docker ps
+[?2004lCONTAINER ID   IMAGE               COMMAND                  CREATED       STATUS          PORTS                                 NAMES
+c92740466ce4   nginx:1.25-alpine   "/docker-entrypoint.…"   4 weeks ago   Up 19 minutes   0.0.0.0:80->80/tcp, [::]:80->80/tcp   my-web-proxy
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7mdocker start my_web_proxy[27mdocker start my_web_proxy
+[?2004lError response from daemon: No such container: my_web_proxy
+failed to start containers: my_web_proxy
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7mdocker start stress-nginx[27mdocker start stress-nginx
+[?2004lstress-nginx
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7mdf –Th[27mdf –Th
+[?2004ldf: –Th: No such file or directory
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7m lsblk --f[27m lsblk --f
+[?2004lNAME FSTYPE FSVER LABEL UUID                                 FSAVAIL FSUSE% MOUNTPOINTS
+sda  ext4   1.0                                                             
+sdb  ext4   1.0                                                             
+sdc  swap   1           501aec4a-b057-4e0f-aef8-8d3151086a43                [SWAP]
+sdd  ext4   1.0         e4a7db95-aa10-4045-a6db-3275e0db2491  941.2G     1% /var/lib/docker
+                                                                            /mnt/wslg/distro
+                                                                            /
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7m ls -al /dev/sda[27m ls -al /dev/sda
+[?2004lbrw-rw---- 1 root disk 8, 0 Apr 17 09:11 [0m[40;33;01m/dev/sda[0m
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7msudo fdisk –l[27msudo fdisk –l
+[?2004l[sudo] password for chleh: 
+[32m
+Welcome to fdisk (util-linux 2.39.3).
+[0mChanges will remain in memory only, until you decide to write them.
+Be careful before using the write command.
+
+fdisk: cannot open –l: No such file or directory
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7mfdisk --version[27mfdisk --version
+[?2004lfdisk from util-linux 2.39.3
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7m mkdir test[27m mkdir test
+[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7mln test hardlink[27mln test hardlink
+[?2004lln: test: hard link not allowed for directory
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7mstat test / stat hardlink[27mstat test / stat hardlink
+[?2004l  File: test
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,48	Inode: 12821       Links: 2
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/   chleh)   Gid: ( 1000/   chleh)
+Access: 2026-04-17 09:48:08.540802745 +0900
+Modify: 2026-04-17 09:48:08.540802745 +0900
+Change: 2026-04-17 09:48:08.540802745 +0900
+ Birth: 2026-04-17 09:48:08.540802745 +0900
+  File: /
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,48	Inode: 2           Links: 22
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2026-04-10 10:46:03.726857380 +0900
+Modify: 2026-04-17 09:11:02.734158986 +0900
+Change: 2026-04-17 09:11:02.734158986 +0900
+ Birth: 2026-03-13 09:31:18.000000000 +0900
+stat: cannot statx 'stat': No such file or directory
+stat: cannot statx 'hardlink': No such file or directory
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7mln –s test symlink[27mln –s test symlink
+[?2004lln: target 'symlink': No such file or directory
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7mls –i[27mls –i
+[?2004lls: cannot access '–i': No such file or directory
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7msudo du -ah --max-depth=1 /home | [27m[7ms[27m[7mort -hr[27m[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ sudo du -ah --max-depth=1 /home | sort -hr
+[?2004l12G	/home/chleh
+12G	/home
+20K	/home/guest
+16K	/home/guest2
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7msudo du -sh /var/lib/docker[27msudo du -sh /var/lib/docker
+[?2004l117M	/var/lib/docker
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7msudo ls -F /var/lib/docker[27msudo ls -F /var/lib/docker
+[?2004lbuildkit/    engine-id	network/  rootfs/    swarm/  volumes/
+containers/  image/	plugins/  runtimes/  tmp/
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7mdocker system df –v[27mdocker system df –v
+[?2004ldocker: 'docker system df' accepts no arguments
+
+Usage:  docker system df [OPTIONS]
+
+Run 'docker system df --help' for more information
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7mdocker info | grep -i "storage dri[27m[7mv[27m[7mer"[27m[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ docker info | grep -i "storage driver"
+[?2004l [01;31m[KStorage Driver[m[K: overlayfs
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7mcat /proc/mounts | grep docker[27mcat /proc/mounts | grep docker
+[?2004l/dev/sdd /var/lib/[01;31m[Kdocker[m[K ext4 rw,relatime,discard,errors=remount-ro,data=ordered 0 0
+overlay /var/lib/[01;31m[Kdocker[m[K/rootfs/overlayfs/c92740466ce47048d28aba0afde42ba148a2f87491a9e6dd5fc86ae15db26025 overlay rw,relatime,lowerdir=/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/22/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/21/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/20/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/19/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/18/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/17/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/16/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/15/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/14/fs,upperdir=/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/23/fs,workdir=/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/23/work 0 0
+nsfs /run/[01;31m[Kdocker[m[K/netns/ebc0209535f6 nsfs rw 0 0
+overlay /var/lib/[01;31m[Kdocker[m[K/rootfs/overlayfs/220680bd4f902eb7a2100ca4e80034ab9d8d77ba461a9e1775781024b6518823 overlay rw,relatime,lowerdir=/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/32/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/31/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/30/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/29/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/28/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/27/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/26/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/25/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/24/fs,upperdir=/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/33/fs,workdir=/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/33/work 0 0
+nsfs /run/[01;31m[Kdocker[m[K/netns/e10af375abda nsfs rw 0 0
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7m git status[27m git status
+[?2004lOn branch main
+Your branch and 'origin/main' have diverged,
+and have 1 and 1 different commits each, respectively.
+  (use "git pull" if you want to integrate the remote branch with yours)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   ../../.bash_history[m
+	[31mmodified:   ../../2026_20231412_week02_log.txt[m
+	[31mmodified:   ../week02/2026_20231412_week02_log.txt[m
+	[31mmodified:   ../week02/t.txt[m
+	[31mmodified:   ../../t.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m../../.landscape/[m
+	[31m../../.local/[m
+	[31m../../get-docker.sh[m
+	[31m../get-docker.sh[m
+	[31m../week02/www/[m
+	[31m./[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week07[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week07[00m$ [7mgit add .[27mgit add .
+[?2004l
