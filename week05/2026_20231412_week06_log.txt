@@ -1,0 +1,214 @@
+Script started on 2026-04-10 10:46:44+09:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="72" LINES="42"]
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mwatch -n 1 ls -l 2026_학번_week06_[27m[7ml[27m[7mog.txt[27m[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ watch -n 1 ls -l 2026_학번_week06_log.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C_week06_log[2P.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C_week06_log.t[2Pxt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2_week06_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0_week06_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2_week06_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C3_week06_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1_week06_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C4_week06_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1_week06_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2_week06_log.txt[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l[?1049h[22;0;0t[1;42r(B[m[4l[?7h[39;49m]4;8;rgb:54/54/54\]4;9;rgb:FF/54/54\]4;10;rgb:54/FF/54\]4;11;rgb:FF/FF/54\]4;12;rgb:54/54/FF\]4;13;rgb:FF/54/FF\]4;14;rgb:54/FF/FF\[39;49m(B[m[H[2JEvery 1.0s: ls -l 2026_202...  BOOK-PHUOEI1G53: Fri Apr 10 10:46:58 2026[3;1H-rw-r--r-- 1 chleh chleh 2734 Apr 10 10:46 2026_20231412_week06_log.txt[42d(B[m[1;67H9[3;26H3107[42;72H(B[m[1;64H7:00[3;28H40[42;72H(B[m[1;67H2[3;28H74[3;42H7[42;72H(B[m[39;49m]104[42;1H[?1049l[23;0;0t[?1l>[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mps –al[27mps –al
+[?2004lerror: garbage option
+
+Usage:
+ ps [options]
+
+ Try 'ps --help <simple|list|output|threads|misc|all>'
+  or 'ps --help <s|l|o|t|m|a>'
+ for additional help text.
+
+For more details see ps(1).
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7m top[27m top
+[?2004l[?1h=[?25l[H[2J(B[mtop - 10:47:21 up 50 min,  1 user,  load average: 0.48, 0.27, 0.10(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m  73 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m  71 (B[m[39;49msleeping,(B[m[39;49m[1m   1 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  0.0 (B[m[39;49mus,(B[m[39;49m[1m  2.3 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 97.7 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m (B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7720.2 (B[m[39;49mtotal,(B[m[39;49m[1m   6234.1 (B[m[39;49mfree,(B[m[39;49m[1m    636.0 (B[m[39;49mused,(B[m[39;49m[1m   1020.3 (B[m[39;49mbuff/ca(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   2048.0 (B[m[39;49mtotal,(B[m[39;49m[1m   2048.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   7084.2 (B[m[39;49mavail M(B[m[39;49m(B[m[39;49m[K
+[K
+[7m    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ (B[m[39;49m[K
+(B[m[1m   6228 chleh     20   0    9296   5248   3072 R   9.1   0.1   0:00.01 (B[m[39;49m[K
+(B[m      1 root      20   0   22132  12928   9344 S   0.0   0.2   0:03.18 (B[m[39;49m[K
+(B[m      2 root      20   0    3120   1920   1920 S   0.0   0.0   0:00.01 (B[m[39;49m[K
+(B[m      6 root      20   0    3152   1792   1792 S   0.0   0.0   0:00.03 (B[m[39;49m[K
+(B[m    185 root      20   0    4236   2560   2432 S   0.0   0.0   0:00.01 (B[m[39;49m[K
+(B[m    186 message+  20   0    9816   4864   4224 S   0.0   0.1   0:00.53 (B[m[39;49m[K
+(B[m    200 root      20   0   17968   8064   7296 S   0.0   0.1   0:00.24 (B[m[39;49m[K
+(B[m    217 syslog    20   0  222508   5248   4480 S   0.0   0.1   0:00.16 (B[m[39;49m[K
+(B[m    222 root      20   0    3160   1920   1792 S   0.0   0.0   0:00.01 (B[m[39;49m[K
+(B[m    230 root      20   0  107024  21760  12800 S   0.0   0.3   0:00.20 (B[m[39;49m[K
+(B[m    231 root      20   0 2460116  50300  32884 S   0.0   0.6   0:09.28 (B[m[39;49m[K
+(B[m    234 root      20   0    3116   1792   1664 S   0.0   0.0   0:00.01 (B[m[39;49m[K
+(B[m    293 root      20   0 2653804  90632  61440 S   0.0   1.1   0:04.99 (B[m[39;49m[K
+(B[m    545 root      20   0 1235348  10444   7040 S   0.0   0.1   0:00.66 (B[m[39;49m[K
+(B[m    568 root      20   0    9004   4864   3712 S   0.0   0.1   0:00.06 (B[m[39;49m[K
+(B[m    598 root      20   0 1746984   4480   3456 S   0.0   0.1   0:00.02 (B[m[39;49m[K
+(B[m    605 root      20   0 1746984   4608   3584 S   0.0   0.1   0:00.00 (B[m[39;49m[K
+(B[m    644 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    645 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    646 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    647 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    648 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    649 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    650 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    651 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    652 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    653 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    654 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    655 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    656 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    657 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    658 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    659 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    683 root      20   0    3136    768    768 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    685 root      20   0    6692   4224   3712 S   0.0   0.1   0:00.01 (B[m[39;49m[K[H(B[mtop - 10:47:24 up 50 min,  1 user,  load average: 0.44, 0.26, 0.10(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m  75 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m  73 (B[m[39;49msleeping,(B[m[39;49m[1m   1 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  0.0 (B[m[39;49mus,(B[m[39;49m[1m  0.1 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 99.9 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m (B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7720.2 (B[m[39;49mtotal,(B[m[39;49m[1m   6233.8 (B[m[39;49mfree,(B[m[39;49m[1m    636.1 (B[m[39;49mused,(B[m[39;49m[1m   1020.5 (B[m[39;49mbuff/ca(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   2048.0 (B[m[39;49mtotal,(B[m[39;49m[1m   2048.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   7084.0 (B[m[39;49mavail M(B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m    231 root      20   0 2460116  50300  32884 S   0.3   0.6   0:09.29 (B[m[39;49m[K
+(B[m   1027 chleh     20   0    3144   2048   1920 S   0.3   0.0   0:00.39 (B[m[39;49m[K
+(B[m   3913 root      20   0   24748   6016   4992 S   0.3   0.1   0:00.13 (B[m[39;49m[K
+(B[m      1 root      20   0   22132  12928   9344 S   0.0   0.2   0:03.18 (B[m[39;49m[K
+(B[m      2 root      20   0    3120   1920   1920 S   0.0   0.0   0:00.01 (B[m[39;49m[K
+(B[m      6 root      20   0    3152   1792   1792 S   0.0   0.0   0:00.03 (B[m[39;49m[K
+(B[m    185 root      20   0    4236   2560   2432 S   0.0   0.0   0:00.01 (B[m[39;49m[K
+(B[m    186 message+  20   0    9816   4864   4224 S   0.0   0.1   0:00.53 (B[m[39;49m[K
+(B[m    200 root      20   0   17968   8064   7296 S   0.0   0.1   0:00.24 (B[m[39;49m[K
+(B[m    217 syslog    20   0  222508   5248   4480 S   0.0   0.1   0:00.16 (B[m[39;49m[K
+(B[m    222 root      20   0    3160   1920   1792 S   0.0   0.0   0:00.01 (B[m[39;49m[K
+(B[m    230 root      20   0  107024  21760  12800 S   0.0   0.3   0:00.20 (B[m[39;49m[K
+(B[m    234 root      20   0    3116   1792   1664 S   0.0   0.0   0:00.01 (B[m[39;49m[K
+(B[m    293 root      20   0 2653804  90632  61440 S   0.0   1.1   0:04.99 (B[m[39;49m[K
+(B[m    545 root      20   0 1235348  10444   7040 S   0.0   0.1   0:00.66 (B[m[39;49m[K
+(B[m    568 root      20   0    9004   4864   3712 S   0.0   0.1   0:00.06 (B[m[39;49m[K
+(B[m    598 root      20   0 1746984   4480   3456 S   0.0   0.1   0:00.02 (B[m[39;49m[K
+(B[m    605 root      20   0 1746984   4608   3584 S   0.0   0.1   0:00.00 (B[m[39;49m[K
+(B[m    644 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    645 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    646 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    647 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    648 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    649 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    650 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    651 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    652 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    653 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    654 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    655 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    656 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    657 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    658 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    659 message+  20   0    9472   2132    640 S   0.0   0.0   0:00.00 (B[m[39;49m[K
+(B[m    683 root      20   0    3136    768    768 S   0.0   0.0   0:00.00 (B[m[39;49m[K[?1l>[43;1H
+[?12l[?25h[K[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mnice -n 15 sleep 300 &[27mnice -n 15 sleep 300 &
+[?2004l[1] 6235
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mps –al[27mps –al
+[?2004lerror: garbage option
+
+Usage:
+ ps [options]
+
+ Try 'ps --help <simple|list|output|threads|misc|all>'
+  or 'ps --help <s|l|o|t|m|a>'
+ for additional help text.
+
+For more details see ps(1).
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mdocker ps[27mdocker ps
+[?2004lCONTAINER ID   IMAGE               COMMAND                  CREATED          STATUS          PORTS                                     NAMES
+220680bd4f90   nginx:alpine        "/docker-entrypoint.…"   41 minutes ago   Up 41 minutes   0.0.0.0:8081->80/tcp, [::]:8081->80/tcp   stress-nginx
+c92740466ce4   nginx:1.25-alpine   "/docker-entrypoint.…"   3 weeks ago      Up 50 minutes   0.0.0.0:80->80/tcp, [::]:80->80/tcp       my-web-proxy
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mdocker stop[27mdocker stop
+[?2004ldocker: 'docker stop' requires at least 1 argument
+
+Usage:  docker stop [OPTIONS] CONTAINER [CONTAINER...]
+
+See 'docker stop --help' for more information
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mrm stress-nginx[27mrm stress-nginx
+[?2004lrm: cannot remove 'stress-nginx': No such file or directory
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7m docker exec stress-nginx apk add [27m[7m-[27m[7m-no-cache stress-ng[27m[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$  docker exec stress-nginx apk add --no-cache stress-ng
+[?2004l(1/3) Installing judy (1.0.5-r1)
+(2/3) Installing liblksctp (1.0.19-r5)
+(3/3) Installing stress-ng (0.19.03-r0)
+Executing busybox-1.37.0-r30.trigger
+OK: 64.3 MiB in 75 packages
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mdocker exec stress-nginx stress-ng[27m[7m [27m[7m--version[27m[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ docker exec stress-nginx stress-ng --version
+[?2004lstress-ng, version 0.19.03 (musl-gcc 15.2.0, x86_64 Linux 6.6.87.2-microsoft-standard-WSL2)
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mwatch -n 1 'ps -eo pid,ni,pcpu,com[27m[7mm[27m[7m --sort=-pcpu | grep stress | head -10’[27m[Awatch -n 1 'ps -eo pid,ni,pcpu,comm --sort=-pcpu | grep stress | head -10’
+[?2004l[?2004h> ^C[?2004l[?2004h[?2004l
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mdocker exec stress-nginx nice -n 0[27m[7m [27m[7mstress-ng --cpu 1 --timeout 60 &[27m[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ docker exec stress-nginx nice -n 0 stress-ng --cpu 1 --timeout 60 &
+[?2004l[2] 6352
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ stress-ng: info:  [60] setting to a 1 min run per stressor
+stress-ng: info:  [60] dispatching hogs: 1 cpu
+^C[?2004l[?2004h[?2004l
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7m docker exec stress-nginx nice -n [27m[7m1[27m[7m0 stress-ng --cpu 1 --timeout 60 &[27m[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$  docker exec stress-nginx nice -n 10 stress-ng --cpu 1 --timeout 60 &
+[?2004l[3] 6387
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ stress-ng: info:  [67] setting to a 1 min run per stressor
+stress-ng: info:  [67] dispatching hogs: 1 cpu
+^C[?2004l[?2004h[?2004l
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mchrt -p $$[27mchrt -p $$
+[?2004lpid 5669's current scheduling policy: SCHED_OTHER
+pid 5669's current scheduling priority: 0
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mps -eo pid,class,rtprio,ni,pri,com[27m[7mm[27m[7m | head -30[27m[A]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ ps -eo pid,class,rtprio,ni,pri,comm | head -30
+[?2004l    PID CLS RTPRIO  NI PRI COMMAND
+      1 TS       -   0  19 systemd
+      2 TS       -   0  19 init-systemd(Ub
+      6 TS       -   0  19 init
+    185 TS       -   0  19 cron
+    186 TS       -   0  19 dbus-daemon
+    200 TS       -   0  19 systemd-logind
+    217 TS       -   0  19 rsyslogd
+    222 TS       -   0  19 agetty
+    230 TS       -   0  19 unattended-upgr
+    231 TS       -   0  19 containerd
+    234 TS       -   0  19 agetty
+    293 TS       -   0  19 dockerd
+    545 TS       -   0  19 containerd-shim
+    568 TS       -   0  19 nginx
+    598 TS       -   0  19 docker-proxy
+    605 TS       -   0  19 docker-proxy
+    644 TS       -   0  19 nginx
+    645 TS       -   0  19 nginx
+    646 TS       -   0  19 nginx
+    647 TS       -   0  19 nginx
+    648 TS       -   0  19 nginx
+    649 TS       -   0  19 nginx
+    650 TS       -   0  19 nginx
+    651 TS       -   0  19 nginx
+    652 TS       -   0  19 nginx
+    653 TS       -   0  19 nginx
+    654 TS       -   0  19 nginx
+    655 TS       -   0  19 nginx
+    656 TS       -   0  19 nginx
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mulimit –a[27mulimit –a
+[?2004lbash: ulimit: –a: invalid number
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mwatch -n 1 'ps -u student1 -o pid,[27m[7mp[27m[7mpid,stat,pcpu,comm; echo "---"; ps -u student1 --noheader [27m
+[7m| wc -l’[27m
+[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cwatch -n 1 'ps -u student1 -o pid,ppid,stat,pcpu,comm; echo "---"; ps -u student1 --noheader
+| wc -l’
+[A
+[?2004l[?2004h> 
+[?2004l[?2004h> ^C[?2004l[?2004h[?2004l
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ stress-ng: info:  [60] skipped: 0
+stress-ng: info:  [60] passed: 1: cpu (1)
+stress-ng: info:  [60] failed: 0
+stress-ng: info:  [60] metrics untrustworthy: 0
+stress-ng: info:  [60] successful run completed in 1 min
+stress-ng: info:  [67] skipped: 0
+stress-ng: info:  [67] passed: 1: cpu (1)
+stress-ng: info:  [67] failed: 0
+stress-ng: info:  [67] metrics untrustworthy: 0
+stress-ng: info:  [67] successful run completed in 1 min
+
+[?2004l[2]-  Done                    docker exec stress-nginx nice -n 0 stress-ng --cpu 1 --timeout 60
+[3]+  Done                    docker exec stress-nginx nice -n 10 stress-ng --cpu 1 --timeout 60
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ 
+[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mps -u $USER --no-header | wc –l[27mps -u $USER --no-header | wc –l
+[?2004lwc: –l: No such file or directory
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mulimit –u 30[27mulimit –u 30
+[?2004lbash: ulimit: –u: invalid number
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7m jobs[27m jobs
+[?2004l[1]+  Running                 nice -n 15 sleep 300 &
+[?2004h]0;chleh@BOOK-PHUOEI1G53: ~/linux/week05[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m~/linux/week05[00m$ [7mcd /etc/security[27mcd /etc/security
+[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: /etc/security[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m/etc/security[00m$ [7msudo nano limits.conf[27msudo nano limits.conf
+[?2004l[sudo] password for chleh: 
+[?2004h[?1049h[22;0;0t[1;42r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[40;30H(B[0;7m[ Reading... ](B[m[40;28H(B[0;7m[ Read 67 lines ](B[m[H(B[0;7m  GNU nano 7.2                   limits.conf                            [1;71H(B[m[41d(B[0;7m^G(B[m Help[15G(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut[41;57H(B[0;7m^T(B[m Execute[42d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste[57G(B[0;7m^J(B[m Justify[2d[36m# /etc/security/limits.conf[3d#[4d#This file sets the resource limits for the users logged in via PAM.[5d#It does not affect resource limits of the system services.[6d#[7d#Also note that configuration files in /etc/security/limits.d directory,[8;1H#which are read in alphabetical order, override the settings in this[9d#file in case the domain is the same or more specific.[10d#That means, for example, that setting a limit for wildcard domain here[11d#can be overridden with a wildcard setting in a config file in the[12d#subdirectory, but a user specific setting here can be overridden only[13d#with a user specific setting in the subdirectory.[14d#[15d#Each line describes a limit for a user in the form:[16d#[17d#<domain>        <type>  <item>  <value>[18d#[19d#Where:[20d#<domain> can be:[21d#        - a user name[22d#        - a group name, with @group syntax[23d#        - the wildcard *, for default entry[24d#        - the wildcard %, can be also used with %group syntax,[25d#[17X[25;19Hfor maxlogin limit[26d#        - NOTE: group and wildcard limits are not applied to root.[27d#          To apply a limit to the root user, <domain> must be[28d#          the literal username root.[29d#[30d#<type> can have the two values:[31d#        - "soft" for enforcing the soft limits[32d#        - "hard" for enforcing hard limits[33d#[34d#<item> can be one of the following:[35d#        - core - limits the core file size (KB)[36d#        - data - max data size (KB)[37d#        - fsize - maximum filesize (KB)[38d#        - memlock - max locked-in-memory address space (KB)[39d#        - nofile - max number of open file descriptors[2d[39m(B[m[?12l[?25h[?25l[40;7H(B[0;7m[ line  1/68 ( 1%), col  1/28 (  3%), char    0/2752 ( 0%) ](B[m[?12l[?25h[2d[?25l[40d[J[42d[?12l[?25h[42;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;chleh@BOOK-PHUOEI1G53: /etc/security[01;32mchleh@BOOK-PHUOEI1G53[00m:[01;34m/etc/security[00m$ [7mexit[27mexit
+[?2004lexit
+
+Script done on 2026-04-10 10:52:33+09:00 [COMMAND_EXIT_CODE="0"]
