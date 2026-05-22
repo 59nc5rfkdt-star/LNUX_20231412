@@ -1,0 +1,21 @@
+services:
+  portainer:
+    image: portainer/portainer-ce:latest
+    container_name: wp_portainer
+    ports:
+      - "9443:9443"
+    volumes:
+      # Docker 시스템과 통신하기 위한 필수 설정입니다.
+      - /var/run/docker.sock:/var/run/docker.sock
+      # Portainer 설정 데이터를 영구 저장합니다.
+      - portainer_data:/data
+    networks:
+      - wp_net
+    restart: unless-stopped
+
+volumes:
+  portainer_data:
+
+networks:
+  wp_net:
+    # 기존에 만든 네트워크를 그대로 같이 사용합니다.
