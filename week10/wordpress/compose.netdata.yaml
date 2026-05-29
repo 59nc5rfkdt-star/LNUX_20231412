@@ -1,0 +1,33 @@
+services:
+  netdata:
+    image: netdata/netdata:latest
+    container_name: wp_netdata
+    ports:
+      - "19999:19999"
+    restart: unless-stopped
+    cap_add:
+      - SYS_PTRACE
+      - SYS_ADMIN
+    security_opt:
+      - apparmor:unconfined
+    volumes:
+      # 컨테이너와 서버의 상태를 모니터링하기 위한 필수 연결
+      - netdataconfig:/etc/netdata
+      - netdatalib:/var/lib/netdata
+      - netdatacache:/var/cache/netdata
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - /proc:/host/proc:ro
+      - /sys:/host/sys:ro
+      - /etc/os-release:/host/etc/os-release:ro
+    networks:
+      - wp_net
+
+volumes:
+  netdataconfig:
+  netdatalib:
+  netdatacache:
+
+networks:
+  wp_net:
+    # 기존 워드프레스/포테이너와 동일한 네트워크 사용
+    external: false
